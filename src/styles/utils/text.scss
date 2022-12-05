@@ -1,12 +1,34 @@
-h6 {
-    font-size: var(--title-32);
+h3 {
+    font-size: 7rem;
+    line-height: 7.5rem;
     color: var(--color-dark);
-    line-height: 3.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+
+    span {
+        color: var(--color-light);
+        position: relative;
+
+        &::after {
+            content: "";
+            position: absolute;
+            top: 10px;
+            left: -5px;
+            height: calc(100% - 20px);
+            width: calc(100% + 65px);
+            background: var(--color-red);
+            z-index: -1;
+        }
+    }
 }
 
-p {
-    font-size: var(--text-16);
-    line-height: 2.6rem;
-    color: var(--color-light);
-    margin-bottom: 3rem;
+h2 {
+    font-size: 17.1rem;
+    line-height: 21.3rem;
+    letter-spacing: 76px;
+    font-weight: 700;
+    color: var(--color-outer-space);
+    opacity: 8%;
+    text-transform: uppercase;
+    text-align: center;
 }

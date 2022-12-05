@@ -1,7 +1,7 @@
 <?php
 
 // $pageurl = "https://".$_SERVER["SERVER_NAME"]; // Production
-$pageurl = "../boilerplate"; // Development
+$pageurl = "../postes-laurindo"; // Development
 
 $url = explode('/', $_GET['cod']);
 $page = $url["0"];
@@ -20,7 +20,7 @@ switch($page){
 		break;
 
 	case "home":
-		$title = "Boilerplate";
+		$title = "Postes Laurindo";
 		$description = "Boilerplate preparado para ser utilizado como base de desenvolvimento: <br /> SASS, Webpack, Three.js, ES6 modules, PHP";
 		break;
 	
