@@ -1,4 +1,5 @@
-// import gsap from 'gsap'
+import gsap from 'gsap';
+import $ from 'jquery'
 
 import Swiper, { Autoplay } from 'swiper';
 
@@ -20,13 +21,21 @@ if(pageurl == 'home'){
   //     })
   // })
 
+  gsap.ticker.add(() => { 
+    if(scroll.screenPosition > 150){
+        $('header').addClass('active')
+    } else {
+        $('header').removeClass('active')
+    }
+  })
+
   const swiperBanner = new Swiper('.swiper-banner', {
     direction: 'horizontal',
     loop: true,
     slidesPerView: 1,
     spaceBetween: 0,
     autoplay: {
-      delay: 2000,
+      delay: 3000,
     },
   });
 
@@ -36,5 +45,17 @@ if(pageurl == 'home'){
   buttonVideo.onClick = function() {
     popupVideo.show()
   }
+
+  $(window).scroll(function(){ scrollSite(); });
+    scrollSite();
+
+    function scrollSite(){
+        if($(this).scrollTop() > 20){
+            $('header').addClass('active');
+        };
+        if($(this).scrollTop() < 20){
+            $('header').removeClass('active');
+        };
+    }
 
 }

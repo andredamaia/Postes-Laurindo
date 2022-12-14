@@ -1,12 +1,16 @@
 header {
     padding: 2rem 0;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     transition: all .3s ease-in-out;
     z-index: 80;
     background: transparent;
+
+    @media (max-width: 821px) {
+        padding: 2rem 0;
+    }
 
     .header-container {
         display: flex;
@@ -15,9 +19,17 @@ header {
         max-width: 95%;
         margin: auto;
 
+        @media (max-width: 821px) {
+            align-items: center;
+        }
+
         .logo {
             svg {
                 width: 22rem;
+
+                @media(max-width: 821px) {
+                    width: 15rem;
+                }
             }
         }
 
@@ -28,6 +40,10 @@ header {
             margin-right: 0;
             gap: 0;
             display: flex;
+
+            @media (max-width: 821px) {
+                display: none;
+            }
         
             li {
                 margin: 0;
@@ -58,4 +74,8 @@ header {
             }
         }
     }
+}
+
+header.active {
+    background: rgba(255, 255, 255, 1);
 }

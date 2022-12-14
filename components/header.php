@@ -47,13 +47,7 @@
             </ul>
 
             <a href="#" class="open-menu">
-                <svg width="43px" height="13px">
-                    <path 
-                        fill-rule="evenodd"  
-                        fill="rgb(255, 255, 255)"
-                        d="M0.186,3.643 L0.186,0.503 L42.999,0.503 L42.999,3.643 L0.186,3.643 ZM42.999,12.151 L14.101,12.151 L14.101,9.11 L42.999,9.11 L42.999,12.151 Z"
-                    />
-                </svg>
+                <svg height="48" width="48"><path d="M6 36v-3h36v3Zm0-10.5v-3h36v3ZM6 15v-3h36v3Z"/></svg>
             </a>
         </div>
     </div>

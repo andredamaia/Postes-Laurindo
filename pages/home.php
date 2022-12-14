@@ -164,3 +164,212 @@
         </div>
     </div>
 </div>
+
+<div class="area-onde-atendemos">
+    <div class="container-special">
+        <div class="div-title">
+            <h2>Onde</h2>
+            <span>Atendemos</span>
+        </div>
+
+        <div class="onde-atendemos-description">
+            <p>A Postes Laurindo está presente em diversas áreas de Santa Catarina. Com representantes prontos para atender, avaliar e oferecer o melhor para a sua necessidade. Fique tranquilo: você também conta com todo o suporte de pós-venda e manutenção.</p>
+
+            <span>Encontre o consultor mais perto de você e faça seu orçamento.</span>
+        </div>
+
+        <div class="onde-atendemos-locais">
+            <div class="box-locais">
+                <h6>REGIÃO DE ARAQUARI, BARRA DO SUL E JARAGUÁ DO SUL</h6>
+
+                <small>Instaladora Fênix</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Marginal BR 280, n 4730 - Bairro Colégio Agrícola.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="tel:4733074071">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        (47) 3307-4071
+                    </a>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547992590494" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        (47) 9 9259-0494
+                    </a>
+
+                    <a href="#">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        -
+                    </a>
+                </div>
+            </div>
+
+            <div class="box-locais">
+                <h6>REGIÃO DA PRAIA DO ERVINO, SÃO FRANCISCO DO SUL</h6>
+
+                <small>Dionisio Eletricista. Entrada de luz padrão Celesc, Instalações residenciais.</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Jardim Curitiba - Praia do Ervino - São Francisco do Sul/SC.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="tel:4734590107">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        (47) 3459-0107
+                    </a>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547991092304" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        (47) 9 9109-2304
+                    </a>
+
+                    <a href="mailto:dionisioeletri@yahoo.com.br">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        dionisioeletri@yahoo.com.br
+                    </a>
+                </div>
+            </div>
+
+            <div class="box-locais">
+                <h6>REGIÃO DA VILA DA GLÓRIA, SÃO FRANCISCO DO SUL</h6>
+
+                <small>Comercial Vila da Glória.</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Rodovia SF 245 s/n - Vila da Glória - São Francisco do Sul/SC.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="tel:4734495079">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        (47) 3449-5079 (Paulo)
+                    </a>
+
+                    <a href="#" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        -
+                    </a>
+
+                    <a href="mailto:pauloviladagloria@hotmail.com">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        pauloviladagloria@hotmail.com
+                    </a>
+                </div>
+            </div>
+
+            <div class="box-locais">
+                <h6>REGIÃO DE GARUVA,<br/> TRÊS BARRAS</h6>
+
+                <small>Casa União Materiais de Construção. Materiais de construção, postes padrão Celesc.</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Av. Celso Ramos, 1189 - Centro - Garuva/SC.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="tel:4734454072">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        (47) 3445-4072
+                    </a>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547999190855" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        (47) 9 9919-0855
+                    </a>
+
+                    <a href="mailto:casauniao@casauniao.com">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        casauniao@casauniao.com
+                    </a>
+                </div>
+            </div>
+
+            <div class="box-locais">
+                <h6>REGIÃO DE MASSARANDUBA</h6>
+
+                <small>Meyer Comércio e Serviços.</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Rodovia SF 245 s/n - Vila da Glória - São Francisco do Sul/SC.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="#">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        -
+                    </a>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547992446118" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        (47) 9 9244-6118
+                    </a>
+
+                    <a href="#">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        -
+                    </a>
+                </div>
+            </div>
+
+            <div class="box-locais">
+                <h6>REGIÃO DE GUARAMIRIM<br/> E SCHROEDER</h6>
+
+                <small>Isidorio Freitag.</small>
+                
+                <div class="localizacao">
+                    <img src="<?php echo $pageurl; ?>/public/images/localization.png" alt="" />
+
+                    <p>Rua Norberto Silveira Junior, 69 - Centro - Guaramirim/SC.</p>
+                </div>
+
+                <div class="locais-redes">
+                    <a href="tel:4733731399">
+                        <img src="<?php echo $pageurl; ?>/public/images/phone.png" alt="" />
+
+                        (47) 3373-1399
+                    </a>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547999446171" target="_blank">
+                        <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
+
+                        (47) 9 9944-6171
+                    </a>
+
+                    <a href="#">
+                        <img src="<?php echo $pageurl; ?>/public/images/email.png" alt="" />
+
+                        -
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
