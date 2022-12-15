@@ -41,7 +41,6 @@ if(pageurl == 'kit-postes'){
 
   const swiperKitPostes = new Swiper('.swiper-produtos', {
     direction: 'horizontal',
-    loop: true,
     slidesPerView: 'auto',
     spaceBetween: 20,
     // autoplay: {

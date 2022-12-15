@@ -1,6 +1,8 @@
 .produtos-content {
 
     .swiper-produtos {
+        overflow: visible;
+        
         .swiper-slide {
             max-width: 125rem;
             height: 100%;

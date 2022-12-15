@@ -43,6 +43,8 @@
                     <?php include('components/footer.php'); ?>
                 </div>
             </div>
+
+            <?php include('components/whats-button.php'); ?>
         </div>
         
         <script src="<?php echo $pageurl; ?>/public/index.js"></script>

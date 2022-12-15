@@ -9,31 +9,31 @@
 
         <div class="area-produtos">
             <div class="produtos">
-                <a href="#">
+                <a href="<?php echo $pageurl; ?>/kit-postes" class="produto-page">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
 
                     <span>Kit Postes</span>
                 </a>
 
-                <a href="#">
+                <a href="<?php echo $pageurl; ?>/paineis">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
 
                     <span>Painéis</span>
                 </a>
 
-                <a href="#">
+                <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-3.jpg" alt="" />
 
                     <span>caixas de passagens</span>
                 </a>
 
-                <a href="#">
+                <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-4.jpg" alt="" />
 
                     <span>Caixas de medição</span>
                 </a>
 
-                <a href="#">
+                <a href="<?php echo $pageurl; ?>/muretas-de-agua">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
 
                     <span>Muretas de medição</span>

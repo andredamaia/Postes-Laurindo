@@ -4,7 +4,7 @@
     <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
 </div>
 
-<footer>
+<footer id="contato">
     <div class="container-special">
         <div class="area-footer">
             <div>
@@ -94,7 +94,7 @@
                     </div>
 
                     <div>
-                        <p><strong><a href="#">Sobre Cartola</a></strong></p>
+                        <p><strong><a href="https://dacartola.com.br/" target="_blank">Sobre Cartola</a></strong></p>
                     </div>
                 </div>
             </div>
