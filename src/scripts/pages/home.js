@@ -21,6 +21,13 @@ if(pageurl == 'home'){
   //     })
   // })
 
+  const videoPlayer = document.querySelector('.bg-video');
+  const videoLaurindo = document.querySelector('.video-player');
+
+  $('.bg-video').on('click', function(){
+    $('.video-player').css('display','block');
+  })
+
   gsap.ticker.add(() => { 
     if(scroll.screenPosition > 150){
         $('header').addClass('active')
@@ -34,17 +41,10 @@ if(pageurl == 'home'){
     loop: true,
     slidesPerView: 1,
     spaceBetween: 0,
-    autoplay: {
-      delay: 3000,
-    },
+    // autoplay: {
+    //   delay: 3000,
+    // },
   });
-
-  const buttonVideo = document.querySelector('.bg-video');
-  const popupVideo = document.querySelector('dialog');
-
-  buttonVideo.onClick = function() {
-    popupVideo.show()
-  }
 
   $(window).scroll(function(){ scrollSite(); });
     scrollSite();

@@ -24,6 +24,32 @@
         <meta name="twitter:title" content="<?php echo $title; ?>" />
         <meta name="twitter:description" content="<?php echo $description; ?>" />
         <meta name="twitter:image" content="<?php echo $pageurl; ?>/public/images/share.jpg" />
+
+        <style>
+            @font-face {
+                font-family: 'gothambold';
+                src: url('<?php echo $pageurl; ?>/public/fonts/gotham-bold.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+
+            }
+
+            @font-face {
+                font-family: 'gothamlight';
+                src: url('<?php echo $pageurl; ?>/public/fonts/gotham-light.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+
+            }
+
+            @font-face {
+                font-family: 'gothammedium';
+                src: url('<?php echo $pageurl; ?>/public/fonts/gothammedium.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+
+            } 
+        </style>
     </head>
 
     <body id="<?php echo $page; ?>" class="<?php echo $subpage; ?>">

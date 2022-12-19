@@ -1,12 +1,12 @@
 <div class="area-interna">
-    <div class="container">
-        <div class="area-interna-header">
-            <div class="div-title">
-                <h2>Produtos</h2>
-                <span>Muretas de Água</span>
-            </div>
+    <div class="area-interna-header">
+        <div class="div-title">
+            <h2>Produtos</h2>
+            <span>Muretas de Água</span>
         </div>
-
+    </div>
+    
+    <div class="container">
         <div class="area-produtos">
             <div class="produtos">
                 <a href="<?php echo $pageurl; ?>/kit-postes">

@@ -53,18 +53,17 @@
 <div class="area-video">
     <img src="<?php echo $pageurl; ?>/public/images/bg-video.jpg" class="bg-video" alt="" />
 
-    <dialog class="open-video">
-        <img src="<?php echo $pageurl; ?>/public/images/banner-3.jpg" alt="" />
-    </dialog>
+    <div class="video-player">
+        <video src="<?php echo $pageurl; ?>/public/video/video-postes-laurindo.mp4" controls></video>
+    </div>
 </div>
 
 <div class="area-linha-tempo" id="nossa-historia">
+    <div class="div-title">
+        <h2>Nossa</h2>
+        <span>História</span>
+    </div>
     <div class="container">
-        <div class="div-title">
-            <h2>Nossa</h2>
-            <span>História</span>
-        </div>
-
         <div class="line-timer-div">
             <div class="linha-do-tempo">
                 <div class="text-linha-tempo left-text">
@@ -112,12 +111,12 @@
 </div>
 
 <div class="area-produtos" id="produtos">
-    <div class="container">
-        <div class="div-title">
-            <h2>Produtos</h2>
-            <span>Produtos</span>
-        </div>
+    <div class="div-title">
+        <h2>Produtos</h2>
+        <span>Produtos</span>
+    </div>
 
+    <div class="container">
         <div class="produtos">
             <a href="<?php echo $pageurl; ?>/kit-postes">
                 <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
@@ -153,12 +152,12 @@
 </div>
 
 <div class="area-onde-atendemos" id="onde-atendemos">
-    <div class="container-special">
-        <div class="div-title">
-            <h2>Onde</h2>
-            <span>Atendemos</span>
-        </div>
+    <div class="div-title">
+        <h2>Onde</h2>
+        <span>Atendemos</span>
+    </div>
 
+    <div class="container-special">
         <div class="onde-atendemos-description">
             <p>A Postes Laurindo está presente em diversas áreas de Santa Catarina. Com representantes prontos para atender, avaliar e oferecer o melhor para a sua necessidade. Fique tranquilo: você também conta com todo o suporte de pós-venda e manutenção.</p>
 

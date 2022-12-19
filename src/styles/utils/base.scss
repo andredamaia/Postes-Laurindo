@@ -27,8 +27,12 @@ html {
 body { 
     font-family: 'Montserrat', sans-serif;
     background: #E6EBEF;
-    overflow: hidden;
-    scroll-behavior: smooth;
+    overflow-y: visible;
+    font-family: 'gothammedium', sans-serif;
+}
+
+strong {
+    font-family: 'gothambold', sans-serif;
 }
 
 input, textarea { 
@@ -62,6 +66,14 @@ a {
     width: 100%;
     margin: 0 auto;
 
+    @media (min-width: 1201px) and (max-width: 1401px) {
+        width: 85%;
+    }
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+        width: 85%;
+    }
+
     @media (max-width: 821px) {
         padding: 0 2rem;
     }
@@ -71,12 +83,24 @@ a {
     padding: 20rem 0 10rem;
     position: relative;
 
+    @media(max-width: 821px) {
+        padding: 10rem 0 3rem;
+    }
+
     .area-produtos {
         padding: 0;
         position: relative;
 
         .produtos {
             margin-bottom: 10rem;
+
+            @media (min-width: 992px) and (max-width: 1200px) {
+                margin-bottom: 3rem;
+            }
+
+            @media(max-width: 821px) {
+                margin-bottom: 0;
+            }
         }
     }
 }
@@ -97,6 +121,15 @@ a {
         margin: auto;
         z-index: 85;
         display: none;
+
+        .close-menu-popup {
+            position: absolute;
+            top: 3rem;
+            right: 3rem;
+            z-index: 100;
+            color: #000;
+            cursor: pointer;
+        }
     
         .popup-content {
             padding: 8rem;
@@ -104,16 +137,12 @@ a {
             border-radius: 2rem;
             position: relative;
 
-            @media (max-width: 821px) {
-                padding: 1.5rem;
+            @media (min-width: 992px) and (max-width: 1200px) {
+                padding: 4rem;
             }
 
-            .close-menu {
-                position: absolute;
-                top: 3rem;
-                right: 3rem;
-                z-index: 30;
-                color: #000;
+            @media (max-width: 821px) {
+                padding: 1.5rem;
             }
 
             .up-side {
@@ -135,6 +164,10 @@ a {
                     .swiper-slide {
                         height: 55rem;
                         overflow: hidden;
+
+                        @media (min-width: 992px) and (max-width: 1200px) {
+                            height: 43rem;
+                        }
 
                         @media (max-width: 821px) {
                             height: 35rem;
@@ -179,6 +212,11 @@ a {
                         color: var(--color-red);
                         font-weight: 700;
 
+                        @media (min-width: 992px) and (max-width: 1200px) {
+                            font-size: 3rem;
+                            line-height: 3.5rem;
+                        }
+
                         @media (max-width: 821px) {
                             font-size: 2.3rem;
                             line-height: 3rem;
@@ -191,6 +229,11 @@ a {
                         line-height: 3.5rem;
                         color: var(--color-outer-space);
                         font-weight: 500;
+
+                        @media (min-width: 992px) and (max-width: 1200px) {
+                            font-size: 2.3rem;
+                            line-height: 2.7rem;
+                        }
 
                         @media (max-width: 821px) {
                             font-size: 1.8rem;
@@ -207,6 +250,11 @@ a {
                             line-height: 3.5rem;
                             color: var(--color-outer-space);
                             font-weight: 500;
+
+                            @media (min-width: 992px) and (max-width: 1200px) {
+                                font-size: 2.3rem;
+                                line-height: 2.7rem;
+                            }
 
                             @media (max-width: 821px) {
                                 font-size: 1.8rem;
@@ -232,6 +280,11 @@ a {
                         color: var(--color-outer-space);
                         font-weight: 500;
 
+                        @media (min-width: 992px) and (max-width: 1200px) {
+                            font-size: 2.3rem;
+                            line-height: 2.7rem;
+                        }
+
                         @media (max-width: 821px) {
                             font-size: 1.8rem;
                             line-height: 2.2rem;
@@ -248,7 +301,7 @@ a {
 }
 
 .layer {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, .5);
@@ -276,6 +329,8 @@ a {
     @media (max-width: 821px) {
         width: 6rem;
         height: 6rem;
+        right: 1.5rem;
+        bottom: 2rem;
     }
 
     svg {
@@ -305,9 +360,19 @@ a {
     background: #f0f3f5;
     text-align: center;
     height: 10rem;
-    line-height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 1.5rem;
     transition: all .3s ease-in-out;
+    
+    @media (max-width: 821px) {
+        line-height: auto;
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
     
 }
 // .match-toggle.open-toggle .toggle-header {
@@ -324,6 +389,16 @@ a {
     font-size: 4.5rem;
     color: var(--color-outer-space);
     font-weight: 700;
+
+    @media (min-width: 992px) and (max-width: 1200px) {
+        font-size: 2.3rem;
+        line-height: 2.7rem;
+    }
+
+    @media (max-width: 821px) {
+        font-size: 1.5rem;
+        line-height: 2rem;
+    }
 }
 
 .toggle-body { padding: 1.5rem 0; display: none; }
@@ -333,14 +408,27 @@ a {
 
     .toggle-up-side {
         display: grid;
+
         grid-template-columns: .4fr .6fr;
         gap: 2rem;
         margin-bottom: 2rem;
+
+        @media (min-width: 992px) and (max-width: 1200px) {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        @media (max-width: 821px) {
+            grid-template-columns: 1fr;
+        }
 
         .toggle-img {
             width: 100%;
             height: 100%;
             overflow: hidden;
+
+            @media (max-width: 821px) {
+                max-height: 25rem;
+            }
 
             img {
                 width: 100%;
@@ -354,6 +442,12 @@ a {
             flex-direction: column;
             justify-content: space-between;
             align-items: flex-start;
+
+            @media (max-width: 821px) {
+                div {
+                    margin-bottom: 2rem;
+                }
+            }
         }
 
         strong {
@@ -362,18 +456,27 @@ a {
             color: var(--color-red);
             font-weight: 700;
 
-            @media (max-width: 821px) {
-                font-size: 2.3rem;
+            @media (min-width: 992px) and (max-width: 1200px) {
+                font-size: 2.5rem;
                 line-height: 3rem;
             }
-        }
 
+            @media (max-width: 821px) {
+                font-size: 1.8rem;
+                line-height: 2.5rem;
+            }
+        }
         span {
             display: block;
             font-size: 3.5rem;
             line-height: 4.7rem;
             color: var(--color-outer-space);
             font-weight: 500;
+
+            @media (min-width: 992px) and (max-width: 1200px) {
+                font-size: 2rem;
+                line-height: 2.5rem;
+            }
 
             @media (max-width: 821px) {
                 font-size: 1.8rem;
@@ -387,6 +490,11 @@ a {
             line-height: 4.7rem;
             color: var(--color-outer-space);
             font-weight: 500;
+
+            @media (min-width: 992px) and (max-width: 1200px) {
+                font-size: 2rem;
+                line-height: 2.5rem;
+            }
 
             @media (max-width: 821px) {
                 font-size: 1.8rem;
@@ -404,6 +512,11 @@ a {
 
         &:last-child {
             margin-bottom: 0;
+        }
+
+        @media (min-width: 992px) and (max-width: 1200px) {
+            font-size: 2rem;
+            line-height: 2.5rem;
         }
 
         @media (max-width: 821px) {

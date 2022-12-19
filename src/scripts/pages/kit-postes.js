@@ -34,10 +34,18 @@ if(pageurl == 'kit-postes'){
   const buttonVerMais = document.querySelector(".ver-mais");
   const popup = document.querySelector("#popup");
   const header = document.querySelector('header');
+  const closeMenuFiltros = document.querySelector('.close-menu-popup');
+  const layer = document.querySelector('.layer');
 
-  buttonVerMais.addEventListener('click', function() {
-    popup.style.display = "block";
-  });
+  $('.close-menu-popup').on('click', function(){
+    $('.popup-content').css('display','none');
+    $('.layer').css('display','none');
+  })
+
+  $('buttonVermais').on('click', function(){
+    $('.popup-content').css('display','block');
+    $('.layer').css('display','block');
+  })
 
   const swiperKitPostes = new Swiper('.swiper-produtos', {
     direction: 'horizontal',
@@ -61,15 +69,6 @@ if(pageurl == 'kit-postes'){
     //   delay: 2000,
     // },
   });
-
-  const closeMenuFiltros = document.querySelector('.close-menu');
-  const popupContent = document.querySelector('.popup-content');
-
-	closeMenuFiltros.addEventListener('click', () => {
-		popup.style.display = 'none';
-	});
-
-  
   
 
   $('.swiper-produtos .swiper-slide').on('click', function(){
@@ -79,7 +78,6 @@ if(pageurl == 'kit-postes'){
 
     $(bgLayer).css('display', 'block');
     $(header).css('display', 'none');
-    // $(bgLayer).css('display', 'block');
-  })
+  });
 
 }

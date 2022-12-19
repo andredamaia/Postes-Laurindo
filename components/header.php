@@ -40,7 +40,7 @@
             <ul class="menu-list">
                 <li><a href="<?php echo $pageurl; ?>/">Início</a></li>
                 <li><a href="<?php echo $pageurl; ?>/#nossa-historia">Nossa História</a></li>
-                <li><a href="<?php echo $pageurl; ?>#produtos">Produtos</a></li>
+                <li><a href="<?php echo $pageurl; ?>/produtos">Produtos</a></li>
                 <li><a href="<?php echo $pageurl; ?>#onde-atendemos">Onde Atendemos</a></li>
                 <li><a href="<?php echo $pageurl; ?>#contato">Contato</a></li>
             </ul>
