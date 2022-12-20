@@ -39,12 +39,13 @@ if(pageurl == 'kit-postes'){
 
   $('.close-menu-popup').on('click', function(){
     $('.popup-content').css('display','none');
-    $('.layer').css('display','none');
+    $('.layer-popup').css('display','none');
   })
 
   $('buttonVermais').on('click', function(){
     $('.popup-content').css('display','block');
-    $('.layer').css('display','block');
+    $('.layer-popup').css('display','block');
+    $('.layer').css('display','none');
   })
 
   const swiperKitPostes = new Swiper('.swiper-produtos', {
@@ -76,7 +77,7 @@ if(pageurl == 'kit-postes'){
 
     $('.modal-'+modal).css('display', 'flex');
 
-    $(bgLayer).css('display', 'block');
+    $('.layer-popup').css('display', 'block');
     $(header).css('display', 'none');
   });
 

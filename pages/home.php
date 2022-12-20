@@ -52,10 +52,6 @@
 
 <div class="area-video">
     <img src="<?php echo $pageurl; ?>/public/images/bg-video.jpg" class="bg-video" alt="" />
-
-    <div class="video-player">
-        <video src="<?php echo $pageurl; ?>/public/video/video-postes-laurindo.mp4" controls></video>
-    </div>
 </div>
 
 <div class="area-linha-tempo" id="nossa-historia">

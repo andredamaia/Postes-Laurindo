@@ -26,7 +26,20 @@ if(pageurl == 'home'){
 
   $('.bg-video').on('click', function(){
     $('.video-player').css('display','block');
+    $('.layer').css('display','block');
   })
+
+  $('.close-menu-video').on('click', function(){
+    $('.video-player').css('display','none');
+    $('.layer').css('display','none');
+  })
+
+  $(".close-menu-video").on('click', function(){
+    $(this)
+    .closest("div")
+    .find('video')[0]
+    .pause();
+  });
 
   gsap.ticker.add(() => { 
     if(scroll.screenPosition > 150){
