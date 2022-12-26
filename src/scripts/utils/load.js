@@ -9,7 +9,7 @@ export default class Load {
         this.container = options.domElement
 
         this.preload = Preload()
-        this.preloadProgress = document.querySelector('.preload span')
+        // this.preloadProgress = document.querySelector('.preload span')
 
         this.randomY = gsap.utils.random(30, 60)
         this.randomDuration = gsap.utils.random(0.5, 1.5)
@@ -31,14 +31,14 @@ export default class Load {
                 autoAlpha: 0,
                 ease: 'power3.inOut'
             })
-            enterAnimantion.to('.preload span', {
-                duration: .8,
-                autoAlpha: 0,
-                skewY: 6,
-                y: -20,
-                delay: -.8,
-                ease: 'power3.inOut'
-            })
+            // enterAnimantion.to('.preload span', {
+            //     duration: .8,
+            //     autoAlpha: 0,
+            //     skewY: 6,
+            //     y: -20,
+            //     delay: -.8,
+            //     ease: 'power3.inOut'
+            // })
             enterAnimantion.fromTo(
                 '.main *',
                 {
@@ -82,8 +82,8 @@ export default class Load {
             });
         })
         
-        this.preload.onprogress = event => {
-            this.preloadProgress.textContent = event.progress + '%'
-        }
+        // this.preload.onprogress = event => {
+        //     this.preloadProgress.textContent = event.progress + '%'
+        // }
     }
 }

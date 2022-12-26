@@ -65,7 +65,7 @@
                 </div>
             </div>
 
-            <div class="footer-contato">
+            <div class="footer-contato" id="contato">
                 <form method="post" class="form-contato">
                     <div class="input-double">
                         <input type="text" placeholder="Nome" required />

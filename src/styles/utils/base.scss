@@ -120,7 +120,6 @@ a {
         right: 0;
         margin: auto;
         z-index: 85;
-        display: none;
 
         .close-menu-popup {
             position: absolute;
@@ -377,6 +376,10 @@ a {
     align-items: center;
     border-radius: 1.5rem;
     transition: all .3s ease-in-out;
+
+    @media (min-width: 1201px) and (max-width: 1400px) {
+        line-height: auto;
+    }
     
     @media (max-width: 821px) {
         line-height: auto;
@@ -401,6 +404,11 @@ a {
     font-size: 4.5rem;
     color: var(--color-outer-space);
     font-weight: 700;
+
+    @media (min-width: 1201px) and (max-width: 1400px) {
+        font-size: 3rem;
+        line-height: 3.5rem;
+    }
 
     @media (min-width: 992px) and (max-width: 1200px) {
         font-size: 2.3rem;
@@ -468,6 +476,11 @@ a {
             color: var(--color-red);
             font-weight: 700;
 
+            @media (min-width: 1201px) and (max-width: 1400px) {
+                font-size: 3rem;
+                line-height: 3.5rem;
+            }
+
             @media (min-width: 992px) and (max-width: 1200px) {
                 font-size: 2.5rem;
                 line-height: 3rem;
@@ -484,6 +497,11 @@ a {
             line-height: 4.7rem;
             color: var(--color-outer-space);
             font-weight: 500;
+
+            @media (min-width: 1201px) and (max-width: 1400px) {
+                font-size: 2.5rem;
+                line-height: 3rem;
+            }
 
             @media (min-width: 992px) and (max-width: 1200px) {
                 font-size: 2rem;
@@ -502,6 +520,11 @@ a {
             line-height: 4.7rem;
             color: var(--color-outer-space);
             font-weight: 500;
+
+            @media (min-width: 1201px) and (max-width: 1400px) {
+                font-size: 2.5rem;
+                line-height: 3rem;
+            }
 
             @media (min-width: 992px) and (max-width: 1200px) {
                 font-size: 2rem;
@@ -524,6 +547,11 @@ a {
 
         &:last-child {
             margin-bottom: 0;
+        }
+
+        @media (min-width: 1201px) and (max-width: 1400px) {
+            font-size: 2.5rem;
+            line-height: 3rem;
         }
 
         @media (min-width: 992px) and (max-width: 1200px) {

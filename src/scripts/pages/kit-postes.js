@@ -37,16 +37,16 @@ if(pageurl == 'kit-postes'){
   const closeMenuFiltros = document.querySelector('.close-menu-popup');
   const layer = document.querySelector('.layer');
 
-  $('.close-menu-popup').on('click', function(){
-    $('.popup-content').css('display','none');
-    $('.layer-popup').css('display','none');
-  })
+  // $('.close-menu-popup').on('click', function(){
+  //   $('.popup-content').css('display','none');
+  //   $('.layer-popup').css('display','none');
+  // })
 
-  $('buttonVermais').on('click', function(){
-    $('.popup-content').css('display','block');
-    $('.layer-popup').css('display','block');
-    $('.layer').css('display','none');
-  })
+  // $('buttonVermais').on('click', function(){
+  //   $('.popup-content').css('display','block');
+  //   $('.layer-popup').css('display','block');
+  //   $('.layer').css('display','none');
+  // })
 
   const swiperKitPostes = new Swiper('.swiper-produtos', {
     direction: 'horizontal',
@@ -70,15 +70,21 @@ if(pageurl == 'kit-postes'){
     //   delay: 2000,
     // },
   });
-  
 
   $('.swiper-produtos .swiper-slide').on('click', function(){
     const modal = $(this).data('modal')
 
-    $('.modal-'+modal).css('display', 'flex');
+    $('.modal-'+modal).css('display', 'block');
 
-    $('.layer-popup').css('display', 'block');
-    $(header).css('display', 'none');
+    $('.layer-popup').css('display','block');
+    $('header').css('display','none');
+  });
+
+
+  $('.close-menu-popup').on('click', function(){
+    $('.popup').css('display','none');
+    $('.layer-popup').css('display','none');
+    $('header').css('display','block');
   });
 
 }

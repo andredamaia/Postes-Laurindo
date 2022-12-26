@@ -21,6 +21,17 @@ if(pageurl == 'home'){
   //     })
   // })
 
+  $('.button-scroll').on('click', function(){
+       
+    const scroll = $(this).data('scroll')
+    const position = $('#' + scroll).offset().top
+
+    $("body,html").animate(
+    {
+        scrollTop : position
+    }, 600);
+})
+
   const videoPlayer = document.querySelector('.bg-video');
   const videoLaurindo = document.querySelector('.video-player');
 
@@ -54,9 +65,9 @@ if(pageurl == 'home'){
     loop: true,
     slidesPerView: 1,
     spaceBetween: 0,
-    // autoplay: {
-    //   delay: 3000,
-    // },
+    autoplay: {
+      delay: 3000,
+    },
   });
 
   $(window).scroll(function(){ scrollSite(); });
