@@ -51,21 +51,22 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-passagem-grande.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa de concreto quadrada</strong>
-                                    <span>Tamanho: 30 x 40cm</span>
-                                    <i>Com tampa</i>
+                                    <strong>CAIXA DE PASSAGEM GRANDE</strong>
+                                    <span>Tamanho: 78x54x60 cm</span>
                                 </div>
 
-                                <p>A caixa de concreto pequena é utilizada para passagem de tubulação elétrica subterrânea, e em algumas regiões serve também para inspeção do sistema aterramento do padrão de entrada de energia.</p>
+                                <p>São utilizadas em redes subterrâneas de eletricidade, telefone, tv, etc. Servem para facilitar a passagem de cabos entre dois pontos. O fundo normalmente é em brita para evitar o acúmulo de água.</p>
 
-                                <p>A caixa de alvenaria ou concreto quadrada com largura interna de 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
+                                <p>É própria para comportar as tampas de ferro nodular padrão Celesc ou para tampas de concreto. Porém estas são aceitas somente após a medição, sendo de uso interno do imóvel.</p>
 
-                                <p>Vem com tampa de proteçãopara obras e não possui fundo o que permite a derivação e acesso as redes elétricas e permitindo manutenção periódica. Pode ser usadas em obras novas ou reformas,residenciais ou industriais.</p>
+                                <p>A caixa de passagem subterrânea possui as medidas de 78 x 54 x 60 cm (C x L x P) sendo essas as medidas externas. A espessura da parede da caixa é de 6cm.</p>
+
+                                <p>A caixa possui um total de 10 furações em cada lateral das paredes maiores, com uma pequena “casca” que impede o furo de atravessar, formando paredes lisas no interior da caixa. Dessa forma, o cliente aproveita a abertura que lhe for útil para passagem dos eletrodutos e cabos de energia.</p>
                             </div>
                         </div>
                     </div>
@@ -81,21 +82,21 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-quadrada-cilindrica.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa de concreto quadrada</strong>
+                                    <strong>CAIXA DE CONCRETO QUADRADO</strong>
                                     <span>Tamanho: 30 x 40cm</span>
                                     <i>Com tampa</i>
                                 </div>
 
-                                <p>A caixa de concreto pequena é utilizada para passagem de tubulação elétrica subterrânea, e em algumas regiões serve também para inspeção do sistema aterramento do padrão de entrada de energia.</p>
+                                <p>A caixa de concreto pequena é utilizada para passagem de tubulação elétrica subterrânea. Em algumas regiões, serve também para inspeção do sistema aterramento do padrão de entrada de energia.</p>
 
-                                <p>A caixa de alvenaria ou concreto quadrada com largura interna de 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
+                                <p>A caixa de alvenaria ou concreto quadrada com largura interna 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
 
-                                <p>Vem com tampa de proteçãopara obras e não possui fundo o que permite a derivação e acesso as redes elétricas e permitindo manutenção periódica. Pode ser usadas em obras novas ou reformas,residenciais ou industriais.</p>
+                                <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas e permitindo manutenção periódica.Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
                             </div>
                         </div>
                     </div>
@@ -111,21 +112,21 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-concreto-cilindrica.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa de concreto quadrada</strong>
+                                    <strong>CAIXA DE CONCRETO CILÍNDRICA</strong>
                                     <span>Tamanho: 30 x 40cm</span>
                                     <i>Com tampa</i>
                                 </div>
 
-                                <p>A caixa de concreto pequena é utilizada para passagem de tubulação elétrica subterrânea, e em algumas regiões serve também para inspeção do sistema aterramento do padrão de entrada de energia.</p>
+                                <p>A caixa cilíndrica, além de possibilitar a inspeção e proteção mecânica da conexão do condutor de aterramento ao eletrodo de aterramento, permite inclusive efetuar a medição periódica.</p>
 
-                                <p>A caixa de alvenaria ou concreto quadrada com largura interna de 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
+                                <p>A caixa de alvenaria ou concreto cilíndrico com diâmetro interno 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
 
-                                <p>Vem com tampa de proteçãopara obras e não possui fundo o que permite a derivação e acesso as redes elétricas e permitindo manutenção periódica. Pode ser usadas em obras novas ou reformas,residenciais ou industriais.</p>
+                                <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas. Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
                             </div>
                         </div>
                     </div>
@@ -141,21 +142,21 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-pvp-cilindrica.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa de concreto quadrada</strong>
+                                    <strong>CAIXA DE PVC CILÍNDRICA</strong>
                                     <span>Tamanho: 30 x 40cm</span>
                                     <i>Com tampa</i>
                                 </div>
 
-                                <p>A caixa de concreto pequena é utilizada para passagem de tubulação elétrica subterrânea, e em algumas regiões serve também para inspeção do sistema aterramento do padrão de entrada de energia.</p>
+                                <p>A caixa de PVC cilíndrica, além de possibilitar a inspeção e proteção mecânica da conexão do condutor de aterramento ao eletrodo de aterramento, permite inclusive efetuar a medição periódica.</p>
 
-                                <p>A caixa de alvenaria ou concreto quadrada com largura interna de 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
+                                <p>A caixa de material polimérico (corpo e tampa) de diâmetro 30cm e altura de 40cm pode ser aplicada somente em locais sem circulação de pessoas ou veículos.</p>
 
-                                <p>Vem com tampa de proteçãopara obras e não possui fundo o que permite a derivação e acesso as redes elétricas e permitindo manutenção periódica. Pode ser usadas em obras novas ou reformas,residenciais ou industriais.</p>
+                                <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas e permitindo manutenção periódica. Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
                             </div>
                         </div>
                     </div>
@@ -163,5 +164,11 @@
             </div>
         </div>
     </div>
+</div>
+
+<div class="area-fachada">
+    <img src="<?php echo $pageurl; ?>/public/images/fachada.jpg" class="bg-fachada" alt="" />
+
+    <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
 </div>
 

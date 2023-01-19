@@ -44,29 +44,40 @@
         <div class="area-toggle">
             <div class="match-toggle">
                 <div class="toggle-header">
-                    <strong>MURETAS D'ÁGUA PADRÃO ÁGUAS DE JOINVILLE</strong>
+                    <strong>MURETA D'ÁGUA PADRÃO ÁGUAS DE JOINVILLE</strong>
                 </div>
 
                 <div class="toggle-body">    
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <div class="swiper muretas-agua-agua-jlle">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-jlle.png" alt="" />
+                                        </div>
+
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-jlle-2.png" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Mureta D'água padrão águas de SFS</strong>
-                                    <span>Altura: 142,0cm</span>
-                                    <span>Largura: 65,0cm</span>
-                                    <span>Profundidade: 18,0cm</span>
+                                    <strong>MURETA D'ÁGUA PADRÃO ÁGUAS DE JOINVILLE</strong>
+                                    <span>Altura: 148,0 cm</span>
+                                    <span>Largura: 61,0 cm</span>
+                                    <span>Profundidade: 22,0 cm</span>
                                 </div>
 
-                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais a segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
+                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
 
-                                <p>É um produto versátil que se adapta a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possivel adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
+                                <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
 
-                                <p>Nossa equipe de instalação é especializada em indicar o melhor local, respeitando os critérios de avaliação do imóvel com base nas normas estabelecidas.</p>
+                                <p>Confeccionada de maneira a estar pronta para solicitação da vistoria e ligação.</p>
                             </div>
                         </div>
                     </div>
@@ -75,29 +86,27 @@
 
             <div class="match-toggle">
                 <div class="toggle-header">
-                    <strong>MURETAS D'ÁGUA PADRÃO ÁGUAS DE SÃO FRANCISCO</strong>
+                    <strong>MURETA D'ÁGUA PADRÃO ÁGUAS DE SFS</strong>
                 </div>
 
                 <div class="toggle-body">    
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-sfs.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Mureta D'água padrão águas de SFS</strong>
+                                    <strong>MURETA D'ÁGUA PADRÃO ÁGUAS DE SFS</strong>
                                     <span>Altura: 142,0cm</span>
                                     <span>Largura: 65,0cm</span>
                                     <span>Profundidade: 18,0cm</span>
                                 </div>
 
-                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais a segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
+                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
 
-                                <p>É um produto versátil que se adapta a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possivel adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
-
-                                <p>Nossa equipe de instalação é especializada em indicar o melhor local, respeitando os critérios de avaliação do imóvel com base nas normas estabelecidas.</p>
+                                <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
                             </div>
                         </div>
                     </div>
@@ -106,7 +115,7 @@
 
             <div class="match-toggle">
                 <div class="toggle-header">
-                    <strong>MURETAS D'ÁGUA PADRÃO CASAN</strong>
+                    <strong>MURETA D'ÁGUA PADRÃO CASAN</strong>
                 </div>
 
                 <div class="toggle-body">    
@@ -118,48 +127,15 @@
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Mureta D'água padrão águas de SFS</strong>
-                                    <span>Altura: 142,0cm</span>
-                                    <span>Largura: 65,0cm</span>
-                                    <span>Profundidade: 18,0cm</span>
+                                    <strong>MURETA D'ÁGUA PADRÃO CASAN</strong>
+                                    <span>Altura: 103,0 cm</span>
+                                    <span>Largura: 61,0cm</span>
+                                    <span>Profundidade: 20,0cm</span>
                                 </div>
 
-                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais a segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
+                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
 
-                                <p>É um produto versátil que se adapta a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possivel adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
-
-                                <p>Nossa equipe de instalação é especializada em indicar o melhor local, respeitando os critérios de avaliação do imóvel com base nas normas estabelecidas.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="match-toggle">
-                <div class="toggle-header">
-                    <strong>CAIXA DE PVC CILÍNDRICA</strong>
-                </div>
-
-                <div class="toggle-body">    
-                    <div class="toggle-produto-description">
-                        <div class="toggle-up-side">
-                            <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
-                            </div>
-
-                            <div class="toggle-description">
-                                <div>
-                                    <strong>Mureta D'água padrão águas de SFS</strong>
-                                    <span>Altura: 142,0cm</span>
-                                    <span>Largura: 65,0cm</span>
-                                    <span>Profundidade: 18,0cm</span>
-                                </div>
-
-                                <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais a segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
-
-                                <p>É um produto versátil que se adapta a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possivel adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
-
-                                <p>Nossa equipe de instalação é especializada em indicar o melhor local, respeitando os critérios de avaliação do imóvel com base nas normas estabelecidas.</p>
+                                <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
                             </div>
                         </div>
                     </div>
@@ -169,3 +145,8 @@
     </div>
 </div>
 
+<div class="area-fachada">
+    <img src="<?php echo $pageurl; ?>/public/images/fachada.jpg" class="bg-fachada" alt="" />
+
+    <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
+</div>

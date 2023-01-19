@@ -70,6 +70,24 @@ if(pageurl == 'home'){
     },
   });
 
+  const swiperComentarios = new Swiper('.swiper-comentarios', {
+    direction: 'horizontal',
+    loop: true,
+    slidesPerView: 'auto',
+    spaceBetween: 40,
+    breakpoints: {
+      // when window width is >= 320px
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 20
+      },
+      821: {
+        slidesPerView: 'auto',
+        spaceBetween: 40
+      }
+    }
+  });
+
   $(window).scroll(function(){ scrollSite(); });
     scrollSite();
 

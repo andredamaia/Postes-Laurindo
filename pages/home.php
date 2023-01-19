@@ -63,43 +63,73 @@
         <div class="line-timer-div">
             <div class="linha-do-tempo">
                 <div class="text-linha-tempo left-text">
-                    <p>A Concretal Laurindo foi fundada em 1989 para oferecer os melhores postes de concreto para Joinville.</p>
+                    <p>A Laurindo Postes e Painéis foi fundada em 1989 para oferecer os melhores postes de concreto para Joinville. Nesta época, ainda se chamava Concretal Laurindo, nome que acompanhou a trajetória da empresa até 2019.</p>
                 </div>
 
                 <div class="line">
                     <span></span>
                 </div>
 
-                <div class="text-linha-tempo right-text">
-                    
-                </div>
+                <div class="text-linha-tempo right-text"></div>
             </div>
 
             <div class="linha-do-tempo">
-                <div class="text-linha-tempo left-text">
-                    
-                </div>
+                <div class="text-linha-tempo left-text"></div>
 
                 <div class="line">
                     <span></span>
                 </div>
 
                 <div class="text-linha-tempo right-text">
-                    <p>Em 1993, com a nova gestão, passamos a desenhar e executar projetos de kit postes no padrão Celesc para ligação de residências e comércios.</p>
+                    <p>Em 1993, com nova gestão estruturada, a empresa passou a desenhar e executar projetos de kit postes no padrão CELESC, para ligação de residências e comércios.</p>
                 </div>
             </div>
 
             <div class="linha-do-tempo">
                 <div class="text-linha-tempo left-text">
-                    <p>Em 12 de fevereiro de 2019 a empresa passou a se chamar oficialmente Postes Laurindo e a atender toda a região norte de Santa Catarina.</p>
+                    <p>Os anos foram passando e percebemos que a Laurindo Postes e Painéis podia mais. Em 2001, iniciou-se o projeto “kit postinhos”, uma proposta da empresa fornecedora de plásticos que visava otimizar o sistema de leitura e medição de energia.</p>
                 </div>
+
+                <div class="line">
+                    <span></span>
+                </div>
+
+                <div class="text-linha-tempo right-text"></div>
+            </div>
+
+            <div class="linha-do-tempo">
+                <div class="text-linha-tempo left-text"></div>
+
+                <div class="line">
+                    <span></span>
+                </div>
+
+                <div class="text-linha-tempo right-text">
+                    <p>Logo em 2002, foi aderida a fabricação dos postes com caixa embutida, sendo as primeiras unidades homologadas pela CELESC. Um novo momento havia chegado!</p>
+                </div>
+            </div>
+
+            <div class="linha-do-tempo">
+                <div class="text-linha-tempo left-text">
+                    <p>A constante busca por novos desafios fez com que, em 2010, a Laurindo investisse na fabricação de um novo diferencial do mercado: as muretas pré-fabricadas de concreto.</p>
+                </div>
+
+                <div class="line">
+                    <span></span>
+                </div>
+
+                <div class="text-linha-tempo right-text"></div>
+            </div>
+
+            <div class="linha-do-tempo">
+                <div class="text-linha-tempo left-text"></div>
 
                 <div class="line last-line">
                     <span></span>
                 </div>
 
                 <div class="text-linha-tempo right-text">
-                    
+                    <p>São mais de 30 anos de referência em soluções técnicas para entrada de energia. E atualmente, a Laurindo Postes e Painéis é gerenciada por Bruna Laurindo seu pai, Arlindo Laurindo. A junção de gerações trouxe criatividade, expertise e qualidade para o serviço da empresa.</p>
                 </div>
             </div>
         </div>
@@ -350,6 +380,140 @@
 
                         -
                     </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="area-fachada">
+    <img src="<?php echo $pageurl; ?>/public/images/fachada.jpg" class="bg-fachada" alt="" />
+
+    <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
+</div>
+
+<div class="area-comentarios">
+    <div class="container-special">
+        <div class="swiper swiper-comentarios">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="comentarios-title">
+                        <div class="comentarios-img">
+                            <img src="<?php echo $pageurl;?>/public/images/debora.png" alt="" />
+                        </div>
+
+                        <div class="cometarios-name">
+                            <strong>Debora Larissa</strong>
+
+                            <div class="comentarios-stars">
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comentarios-description">
+                        <p>Super indico, desde o primeiro atendimento até a execução do serviço! Me deram o máximo de atenção e urgência assim como eu precisava!</p>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="comentarios-title">
+                        <div class="comentarios-img">
+                            <img src="<?php echo $pageurl;?>/public/images/naza.png" alt="" />
+                        </div>
+
+                        <div class="cometarios-name">
+                            <strong>Naza Miranda</strong>
+
+                            <div class="comentarios-stars">
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comentarios-description">
+                        <p>Ótimos profissionais! Serviço rápido e eficiente. Atendimento com muita qualidade e funcionários muito educados e gentis. Super indico.</p>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="comentarios-title">
+                        <div class="comentarios-img">
+                            <img src="<?php echo $pageurl;?>/public/images/irene1.png" alt="" />
+                        </div>
+
+                        <div class="cometarios-name">
+                            <strong>irene secco</strong>
+
+                            <div class="comentarios-stars">
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comentarios-description">
+                        <p>Atendente maravilhosa educada atenciosa super gente boa os rapazes que vieram colocar os dois postes muito de bom humor trabalho perfeito seu Laurindo muito atencioso veio até minha casa para ver o melhor lugar para colocar o poste então eu super super recomendo quem precisar pode ter certeza que sera muito bem atendido Deus abençoe toda a equipe</p>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="comentarios-title">
+                        <div class="comentarios-img">
+                            <img src="<?php echo $pageurl;?>/public/images/adriano.png" alt="" />
+                        </div>
+
+                        <div class="cometarios-name">
+                            <strong>Adriano Ricardo</strong>
+
+                            <div class="comentarios-stars">
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comentarios-description">
+                        <p>Olá bom dia,venho por meio desta pesquisa,agradecer a empresa pelo seu atendimento excelente! Qualidade no material utilizado para garantir a durabilidade do meu produto, a entrega no prazo,sem estresse e muito satisfeito.obrigado!</p>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="comentarios-title">
+                        <div class="comentarios-img">
+                            <img src="<?php echo $pageurl;?>/public/images/sandra.png" alt="" />
+                        </div>
+
+                        <div class="cometarios-name">
+                            <strong>Sandra Souza</strong>
+
+                            <div class="comentarios-stars">
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                                <img src="<?php echo $pageurl;?>/public/images/star.png" alt="" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="comentarios-description">
+                        <p>Como é gratificante, quando somos atendidos com atenção, carinho e preocupação, uma preocupação em poder lhe fornecer de fato o produto que para você será realmente útil, não simples vender porque você pediu. Uma atenção que hoje não se encontra mais tão fácil. É por essa diferença que sou clientes deste 1994, não que compramos a todo mês um novo poste, mas quando preciso, sei onde sou trata com respeito, com atenção e carinho. Não sou apenas mais um consumidor. Muito Obrigada.</p>
+                    </div>
                 </div>
             </div>
         </div>

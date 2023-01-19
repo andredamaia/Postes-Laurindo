@@ -13,6 +13,7 @@
         <meta name="msapplication-TileColor" content="#111111" />
         <meta name="theme-color" content="#111111" />
 
+        <link rel="stylesheet" href="<?php echo $pageurl; ?>/public/fonts/gotham/stylesheet.css" />
         <link rel="stylesheet" href="<?php echo $pageurl; ?>/public/index.css" />
 
         <meta property="og:type" content="website" />

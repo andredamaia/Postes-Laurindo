@@ -178,7 +178,7 @@
         font-size: 4.2rem;
         line-height: 5.4rem;
         letter-spacing: 3px;
-        font-weight: 700;
+        font-family: 'gothambold';
         color: var(--color-outer-space);
         position: absolute;
         top: 7.5rem;
@@ -208,7 +208,7 @@
     }
 
     .line-timer-div {
-        width: 50%;
+        width: 70%;
         margin: 0 auto;
 
         @media (min-width: 1201px) and (max-width: 1401px) {
@@ -245,21 +245,21 @@
             .text-linha-tempo {
 
                 p {
-                    font-size: 3.8rem;
-                    line-height: 4.5rem;
+                    font-size: 3rem;
+                    line-height: 3.5rem;
                     color: var(--color-outer-space);
-                    font-weight: 400;
+                    font-family: 'gothambook';
                     margin-bottom: 8rem;
 
                     @media (min-width: 1201px) and (max-width: 1401px) {
-                        font-size: 3.3rem;
-                        line-height: 3.7rem;
+                        font-size: 2.6rem;
+                        line-height: 3.2rem;
                         margin-bottom: 4rem;
                     }
 
                     @media (min-width: 992px) and (max-width: 1200px) {
-                        font-size: 3rem;
-                        line-height: 3.5rem;
+                        font-size: 2rem;
+                        line-height: 2.5rem;
                     }
 
                     @media (max-width: 821px) {
@@ -350,7 +350,7 @@
             span {
                 font-size: 2.5rem;
                 line-height: 3rem;
-                font-weight: 700;
+                font-family: 'Oswald', sans-serif;
                 color: var(--color-light);
                 text-transform: uppercase;
                 text-align: center;
@@ -397,12 +397,22 @@
     }
 
     .onde-atendemos-description {
+        padding: 6rem 10rem;
+        @media (min-width: 992px) and (max-width: 1200px) {
+            padding: 4rem;
+        }
+
+        @media(max-width: 821px) {
+            padding: 2rem;
+        }
+
         p {
             font-size: 4rem;
             line-height: 4.5rem;
             color: var(--color-outer-space);
-            font-weight: 500;
+            font-family: 'gothambook';
             margin-bottom: 7rem;
+            text-align: center;
 
             @media (min-width: 1201px) and (max-width: 1401px) {
                 font-size: 3.5rem;
@@ -411,8 +421,8 @@
             }
 
             @media (min-width: 992px) and (max-width: 1200px) {
-                font-size: 3rem;
-                line-height: 3.5rem;
+                font-size: 2.5rem;
+                line-height: 3rem;
             }
 
             @media (max-width: 821px) {
@@ -427,10 +437,10 @@
             font-size: 4rem;
             line-height: 4.5rem;
             color: var(--color-light);
-            font-weight: 700;
+            font-family: 'gothamblack';
             margin-bottom: 7rem;
             background: var(--color-red);
-            padding: 0;
+            padding: 1rem 0;
             text-align: center;
             margin-bottom: 10rem;
 
@@ -441,8 +451,8 @@
             }
 
             @media (min-width: 992px) and (max-width: 1200px) {
-                font-size: 3rem;
-                line-height: 3.5rem;
+                font-size: 2rem;
+                line-height: 2.5rem;
                 margin-bottom: 5rem;
             }
 
@@ -495,7 +505,7 @@
             small {
                 font-size: 2.7rem;
                 line-height: 3.3rem;
-                font-weight: 400;
+                font-family: 'gothammedium';
                 color: var(--color-outer-space);
                 margin-bottom: 3rem;
                 display: block;
@@ -539,7 +549,7 @@
     p {
         font-size: 2.7rem;
         line-height: 3.3rem;
-        font-weight: 400;
+        font-family: 'gothambook';
         color: var(--color-outer-space);
 
         @media (min-width: 1201px) and (max-width: 1401px) {
@@ -563,7 +573,7 @@
     a {
         font-size: 2.7rem;
         line-height: 3.3rem;
-        font-weight: 400;
+        font-family: 'gothambook';
         color: var(--color-outer-space);
         display: flex;
         flex-direction: row;
@@ -626,6 +636,110 @@
         height: 100%;
         position: relative;
         z-index: 85;
+    }
+}
+
+.area-comentarios {
+    padding: 10rem 0;
+    background: #CED6DC;
+
+    @media(max-width: 821px) {
+        padding: 3rem 0;
+    }
+
+    .swiper-comentarios {
+        overflow: visible;
+
+        .swiper-wrapper {
+            align-items: center;
+        }
+        
+        .swiper-slide {
+            max-width: 94.6rem !important;
+            width: auto !important;
+            background: var(--color-light);
+            padding: 5rem;
+            border-radius: 1rem;
+
+            @media(max-width: 821px) {
+                width: 100% !important;
+                padding: 2rem;
+                max-width: 100%;
+            }
+
+            .comentarios-title {
+                display: flex;
+                flex-direction: row;
+                justify-content: flex-start;
+                align-items: center;
+                gap: 2.5rem;
+                margin-bottom: 3rem;
+
+                .comentarios-img {
+                    height: 7rem;
+                    width: 7rem;
+                    overflow: hidden;
+                    border-radius: 5rem;
+
+                    @media(max-width: 821px) {
+                        height: 4rem;
+                        width: 4rem;
+                    }
+
+                    img {
+                        width: 100%;
+                        height: 100%;
+                        object-fit: cover;
+                    }
+                }
+
+                .cometarios-name {
+                    strong {
+                        font-size: 2.5rem;
+                        line-height: 3rem;
+                        color: var(--color-dark);
+                        font-weight: 700;
+                        display: block;
+                        margin-bottom: .5rem;
+
+                        @media(max-width: 821px) {
+                            font-size: 1.8rem;
+                            line-height: 2.5rem;
+                        }
+                    }
+
+                    .comentarios-stars {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: flex-start;
+                        gap: .5rem;
+                        img {
+                            width: 2rem;
+                            height: 2rem;
+
+                            @media(max-width: 821px) {
+                                width: 1.5rem;
+                                height: 1.5rem;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .comentarios-description {
+                p {
+                    font-size: 2.5rem;
+                    line-height: 3rem;
+                    color: var(--color-dark);
+                    font-family: 'arialregular';
+
+                    @media(max-width: 821px) {
+                        font-size: 1.5rem;
+                        line-height: 2rem;
+                    }
+                }
+            }
+        }
     }
 }
 

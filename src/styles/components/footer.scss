@@ -40,6 +40,7 @@ footer {
         margin-bottom: 10rem;
         font-size: 2rem;
         line-height: 3rem;
+        font-family: 'gothambook';
 
         @media (max-width: 821px) {
             margin-bottom: 3rem;
@@ -70,6 +71,7 @@ footer {
                         width: 3.6rem;
                         height: 3.6rem;
                         text-decoration: none;
+                        font-family: 'gothambook';
                     }
                 }
             }
@@ -81,6 +83,7 @@ footer {
                     font-size: 1.7rem;
                     line-height: 2.2rem;
                     margin-bottom: 2rem;
+                    font-family: 'gothambook';
 
                     @media (max-width: 821px) {
                         font-size: 1.3rem;
@@ -94,6 +97,7 @@ footer {
                     font-size: 1.7rem;
                     line-height: 2.2rem;
                     margin-bottom: .5rem;
+                    font-family: 'gothambook';
 
                     @media (max-width: 821px) {
                         font-size: 1.3rem;
@@ -152,7 +156,7 @@ footer {
             font-size: 1.2rem;
             line-height: 1.5rem;
             color: #8C8C8C;
-            font-weight: 400;
+            font-family: 'gothambook';
             margin-bottom: 0;
 
             strong {

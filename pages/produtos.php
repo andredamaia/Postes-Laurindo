@@ -42,3 +42,9 @@
         </div>
     </div>
 </div>
+
+<div class="area-fachada">
+    <img src="<?php echo $pageurl; ?>/public/images/fachada.jpg" class="bg-fachada" alt="" />
+
+    <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
+</div>

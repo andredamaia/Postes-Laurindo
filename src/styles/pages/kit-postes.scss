@@ -44,7 +44,7 @@
                     font-size: 4rem;
                     line-height: 4.5rem;
                     color: var(--color-red);
-                    font-weight: 700;
+                    font-family: 'gothambold';
 
                     @media (max-width: 821px) {
                         font-size: 2rem;
@@ -57,7 +57,7 @@
                     font-size: 2.7rem;
                     line-height: 3.5rem;
                     color: var(--color-outer-space);
-                    font-weight: 500;
+                    font-family: 'gothambook';
 
                     @media (min-width: 992px) and (max-width: 1200px) {
                         font-size: 2.2rem;
@@ -83,7 +83,7 @@
                         font-size: 2.7rem;
                         line-height: 3.5rem;
                         color: var(--color-outer-space);
-                        font-weight: 500;
+                        font-family: 'gothambook';
 
                         @media (min-width: 992px) and (max-width: 1200px) {
                             font-size: 2.2rem;

@@ -1,6 +1,9 @@
 import gsap from 'gsap';
 import $ from 'jquery'
 import Scroll from '../utils/scroll'
+import Swiper, { Pagination } from 'swiper';
+
+Swiper.use([Pagination]);
 
 const pageurl = document.querySelector('body').id
 
@@ -19,6 +22,20 @@ if(pageurl == 'muretas-de-agua'){
       $(this).parent().toggleClass('open-toggle');
 
       window.dispatchEvent(new Event('resize'));
+  });
+
+  const swiperMuretasAguaAguaJlle = new Swiper('.muretas-agua-agua-jlle', {
+    direction: 'horizontal',
+    loop: true,
+    slidesPerView: 1,
+    spaceBetween: 0,
+    autoplay: {
+      delay: 3000,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+    },
   });
 
 }

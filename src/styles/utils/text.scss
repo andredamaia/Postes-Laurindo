@@ -2,7 +2,7 @@ h3 {
     font-size: 7rem;
     line-height: 7.5rem;
     color: var(--color-dark);
-    font-weight: 600;
+    font-family: 'gothambold';
     text-transform: uppercase;
 
     @media (max-width: 821px) {
@@ -18,14 +18,13 @@ h3 {
             content: "";
             position: absolute;
             top: 10px;
-            left: -5px;
+            left: 0;
             height: calc(100% - 20px);
-            width: calc(100% + 65px);
+            width: 100%;
             background: var(--color-red);
             z-index: -1;
 
             @media (max-width: 821px) {
-                width: calc(100% + 20px);
                 height: 100%;
                 top: 0;
             }
@@ -37,7 +36,7 @@ h2 {
     font-size: 17.1rem;
     line-height: 21.3rem;
     letter-spacing: 76px;
-    font-weight: 700;
+    font-family: 'Oswald', sans-serif;
     color: var(--color-outer-space);
     opacity: 8%;
     text-transform: uppercase;
@@ -69,7 +68,7 @@ h2 {
 h6 {
     font-size: 2.7rem;
     line-height: 3.3rem;
-    font-weight: 400;
+    font-family: 'gothammedium';
     text-transform: uppercase;
     color: var(--color-outer-space);
     margin-bottom: .5rem;

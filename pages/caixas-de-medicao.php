@@ -51,23 +51,27 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-hidrometro-agua-de-jlle.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa hidrômetro Casan</strong>
-                                    <span>Largura: 47,5cm</span>
-                                    <span>Altura: 40,0cm</span>
-                                    <span>profundidade: 15,0cm</span>
+                                    <strong>CAIXA HIDRÔMETRO Águas de Joinville/São Francisco do Sul</strong>
+                                    <span>Largura: 52,0 cm</span>
+                                    <span>Altura: 34,0 cm</span>
+                                    <span>profundidade: 16,0 cm</span>
                                 </div>
 
-                                <p>A caixa de proteção para hidrômetro é confeccionado em polipropeno (PP) com carga e proteção contra raios u.v</p>
+                                <p>A caixa foi desenvolvida com alta tecnologia e materiais resistentes, garantindo maior durabilidade, evitando vazamentos e desperdícios.</p>
 
-                                <p>O corpo possui nervuras em todas as suas faces laterais externas, permitindo maior fixação no reboco após a sua colocação e também proporciona maior estabilidade estrutural a direção da entrada e da saída da tubulação.</p>
+                                <p>Possui proteção contra raios UV, sua tampa tem furação para a circulação do ar evitando embaçamentos e também facilitando o escoamento da água em caso de vazamento, permitindo que a leitura de consumo seja feita normalmente sem qualquer interferência na rotina do cliente.</p>
 
-                                <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaraçamento e também permitem o escoamento da água em caso de vazamento.</p>
+                                <p>É de fácil instalação e proporciona diminuição dos riscos de vazamentos, bem como na detecção dos mesmos. Além de manter preservada a qualidade da água tratada pela Companhia Águas de Joinville.</p>
                             </div>
+                        </div>
+
+                        <div class="toggle-down-side">
+                            <p>A caixa de hidrômetro é recomendada quando o local de instalação envolve grandes alterações na fachada do imóvel ou dificuldade de acesso da nossa equipe para a instalação da mureta pré-fabricada, que já sai pronta da empresa para o cliente apenas pedir vistoria e ligação.</p>
                         </div>
                     </div>
                 </div>
@@ -82,12 +86,12 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-hidrometro-casan.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa hidrômetro Casan</strong>
+                                    <strong>CAIXA HIDRÔMETRO CASAN</strong>
                                     <span>Largura: 47,5cm</span>
                                     <span>Altura: 40,0cm</span>
                                     <span>profundidade: 15,0cm</span>
@@ -113,22 +117,22 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <img src="<?php echo $pageurl; ?>/public/images/caixa-medicao.png" alt="" />
                             </div>
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Caixa hidrômetro Casan</strong>
-                                    <span>Largura: 47,5cm</span>
-                                    <span>Altura: 40,0cm</span>
+                                    <strong>CAIXA DE MEDIÇÃO DE ENERGIA CELESC (TAF)</strong>
+                                    <span>Largura: 42cm</span>
+                                    <span>Altura: 26,0cm</span>
                                     <span>profundidade: 15,0cm</span>
                                 </div>
 
-                                <p>A caixa de proteção para hidrômetro é confeccionado em polipropeno (PP) com carga e proteção contra raios u.v</p>
+                                <p>A caixa de proteção para hidrômetro é confeccionada em polipropileno (pp) com carga e proteção contra raios u.v.</p>
 
-                                <p>O corpo possui nervuras em todas as suas faces laterais externas, permitindo maior fixação no reboco após a sua colocação e também proporciona maior estabilidade estrutural a direção da entrada e da saída da tubulação.</p>
+                                <p>O corpo possui nervuras em todas as suas faces laterais externas, permitindo maior fixação no reboco após a sua colocação, e também proporciona maior estabilidade estrutural na direção da entrada e da saída da tubulação.</p>
 
-                                <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaraçamento e também permitem o escoamento da água em caso de vazamento.</p>
+                                <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaçamentos e também permitem o escoamento da água em caso de vazamento.</p>
                             </div>
                         </div>
                     </div>
@@ -136,5 +140,11 @@
             </div>
         </div>
     </div>
+</div>
+
+<div class="area-fachada">
+    <img src="<?php echo $pageurl; ?>/public/images/fachada.jpg" class="bg-fachada" alt="" />
+
+    <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
 </div>
 
