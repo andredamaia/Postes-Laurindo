@@ -36,7 +36,7 @@
                 <a href="<?php echo $pageurl; ?>/muretas-de-agua">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
 
-                    <span>Muretas de medição</span>
+                    <span>Muretas de água</span>
                 </a>
             </div>
         </div>
@@ -171,4 +171,6 @@
 
     <img src="<?php echo $pageurl; ?>/public/images/efeito-fachada.png" class="bg-efeito" alt="" />
 </div>
+
+
 

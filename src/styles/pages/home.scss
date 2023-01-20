@@ -245,15 +245,15 @@
             .text-linha-tempo {
 
                 p {
-                    font-size: 3rem;
-                    line-height: 3.5rem;
+                    font-size: 2.6rem;
+                    line-height: 3rem;
                     color: var(--color-outer-space);
                     font-family: 'gothambook';
                     margin-bottom: 8rem;
 
                     @media (min-width: 1201px) and (max-width: 1401px) {
-                        font-size: 2.6rem;
-                        line-height: 3.2rem;
+                        font-size: 2.4rem;
+                        line-height: 3rem;
                         margin-bottom: 4rem;
                     }
 

@@ -36,7 +36,7 @@
                 <a href="<?php echo $pageurl; ?>/muretas-de-agua" class="produto-page">
                     <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
 
-                    <span>Muretas de medição</span>
+                    <span>Muretas de água</span>
                 </a>
             </div>
         </div>
