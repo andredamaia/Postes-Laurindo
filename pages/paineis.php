@@ -174,16 +174,20 @@
                                 <div class="swiper swiper-painel-2-medicoes-comum">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
-                                            <img src="<?php echo $pageurl; ?>/public/images/painel-2-medicoes.png" alt="" />
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-2-medicoes.png" alt="" />
+                                        </div>
+
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-2-medicoes-2.png" alt="" />
                                         </div>
 
                                         <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-2-medicoes-2.png" alt="" />
                                         </div>
 
-                                        <div class="swiper-slide">
+                                        <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-2-medicoes-3.png" alt="" />
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="swiper-pagination"></div>
                                 </div>
@@ -245,8 +249,12 @@
                                         </div>
 
                                         <div class="swiper-slide">
-                                            <img src="<?php echo $pageurl; ?>/public/images/painel-4-medicoes-5.png" alt="" />
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes.png" alt="" />
                                         </div>
+
+                                        <!-- <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/painel-4-medicoes-5.png" alt="" />
+                                        </div> -->
                                     </div>
                                     <div class="swiper-pagination"></div>
                                 </div>
@@ -301,9 +309,9 @@
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-3.png" alt="" />
                                         </div>
 
-                                        <div class="swiper-slide">
+                                        <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-4.png" alt="" />
-                                        </div>
+                                        </div> -->
 
                                         <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-5.png" alt="" />
@@ -347,23 +355,23 @@
 
                             <div class="toggle-description">
                                 <div>
-                                    <strong>Painel para 2 medições verticais</strong>
+                                    <strong>Painel para até 6 medições</strong>
                                     <span>Tamanho: 8 metros</span>
                                     <i>Resistência: 200daN</i>
                                 </div>
 
-                                <p>Esse modelo de painel é um projeto original da laurindo que passou por várias melhorias ao longo dos anos visando otimizar a ocupação de espaço em obras e aperfeiçoar o sistema elétrico de forma segura. É a união de duas normas da concessionária do Estado - Celesc.</p>
+                                <p>Para instalações acima dos limites de agrupamento de até 3 consumidores monofásicos ou 1 monofásico e 1 bifásico ou 1 monofásico a 3 fios, torna-se necessário o estudo de cálculo da demanda por um profissional habilitado, acompanhado de Documento de Responsabilidade Técnica pertinente via sistema PEP (Projeto Elétrico de Particular).</p>
 
-                                <p>Disponível nas três categorias: bifásico, trifásico ou misto. Depende do local de instalação e da carga demandada em cada empreendimento. Atende a medição para até dois imóveis no mesmo terreno. Usado para fins residenciais e comerciais, esse padrão facilita a medição de entrada coletiva em um único terreno.</p>
+                                <p>Disponível nas três categorias: bifásico, trifásico ou misto. Depende do local de instalação e da carga demandada em cada empreendimento. Atende a medição para até seis imóveis no mesmo terreno. Usado para fins residenciais e comerciais, esse padrão facilita a medição de entrada coletiva em um único terreno.</p>
                             </div>
                         </div>
 
                         <div class="toggle-down-side">
-                            <p>Existem duas opções para que o cliente faça a ligação do poste até as unidades consumidoras: sendo ambas saídas subterrâneas, ou uma saída aérea (caixa 01) e a outra subterrânea (caixa 02).</p>
+                            <p>Existem duas opções para que o cliente faça a ligação do painel até as unidades consumidoras: sendo com a entrada e saídas subterrâneas (quando não há necessidade de poste), ou com entrada aérea (havendo poste) e todas as saídas subterrâneas.</p>
 
-                            <p>É limitado ao ramal de entrada cabos de seção de 16mm² e disjuntor geral de 70A. E para os cabos de derivação do barramento, bem como o ramal de saída das caixas de medição, é permitido cabos 10mm² e disjuntores individuais de 50A.</p>
+                            <p>Esse modelo de painel é versátil e permite adaptações de montagem dos diagramas elétricos de acordo com o projeto fornecido pelo cliente. Certamente as variações devem respeitar o dimensionamento das tubulações internas para passagem dos cabos, conforme a composição mecânica da peça.</p>
 
-                            <p>O poste/painel tem altura definida na altura de 8 metros e é fabricado em concreto usinado com resistência de 200daN (decaNewton).</p>
+                            <p>O poste que acompanha o painel pode variar nas alturas entre 7, 8 e 9 metros, dependendo da condição em que se encontra a rede geral da Celesc (Iluminação pública). É fabricado em concreto usinado, e tem resistência a esforços de tração variados (daN - decaNewton) de acordo com o  dimensionamento do projeto elétrico da entrada de energia.</p>
                         </div>
                     </div>
                 </div>

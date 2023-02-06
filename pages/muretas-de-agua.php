@@ -93,7 +93,18 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-sfs.png" alt="" />
+                                <div class="swiper swiper-mureta-agua-sfs">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-sfs.png" alt="" />
+                                        </div>
+
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-mureta-dagua-sfs.png" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
                             </div>
 
                             <div class="toggle-description">
@@ -122,7 +133,18 @@
                     <div class="toggle-produto-description">
                         <div class="toggle-up-side">
                             <div class="toggle-img">
-                                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+                                <div class="swiper swiper-mureta-agua-casan">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-mureta-dagua-casan.png" alt="" />
+                                        </div>
+
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-mureta-dagua-casan-2.png" alt="" />
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination"></div>
+                                </div>
                             </div>
 
                             <div class="toggle-description">

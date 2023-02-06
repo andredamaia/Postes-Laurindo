@@ -128,11 +128,11 @@
                                     <span>profundidade: 15,0cm</span>
                                 </div>
 
-                                <p>A caixa de proteção para hidrômetro é confeccionada em polipropileno (pp) com carga e proteção contra raios u.v.</p>
+                                <p>A caixa para medidor monofásico é confeccionada em policarbonato com proteção U.V. e antichama. A geometria funcional da peça permite um acoplamento perfeito em caso de montagem de painéis de medição monofásicos, facilitando a confecção de quadros para agrupamento.</p>
 
-                                <p>O corpo possui nervuras em todas as suas faces laterais externas, permitindo maior fixação no reboco após a sua colocação, e também proporciona maior estabilidade estrutural na direção da entrada e da saída da tubulação.</p>
+                                <p>Para fixação do medidor, possui sistema de travessa regulável, permitindo a utilização de diversos padrões do mesmo. Possui no fundo do corpo suportes para passagem de cinta metálica para fixação do conjunto em poste (opcional).</p>
 
-                                <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaçamentos e também permitem o escoamento da água em caso de vazamento.</p>
+                                <!-- <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaçamentos e também permitem o escoamento da água em caso de vazamento.</p> -->
                             </div>
                         </div>
                     </div>

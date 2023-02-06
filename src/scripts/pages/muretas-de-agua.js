@@ -38,4 +38,32 @@ if(pageurl == 'muretas-de-agua'){
     },
   });
 
+  const swiperMuretaAguaSfs = new Swiper('.swiper-mureta-agua-sfs', {
+    direction: 'horizontal',
+    loop: true,
+    slidesPerView: 1,
+    spaceBetween: 0,
+    autoplay: {
+      delay: 3000,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+    },
+  });
+
+  const swiperMuretaAguaCasan = new Swiper('.swiper-mureta-agua-casan', {
+    direction: 'horizontal',
+    loop: true,
+    slidesPerView: 1,
+    spaceBetween: 0,
+    autoplay: {
+      delay: 3000,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+    },
+  });
+
 }

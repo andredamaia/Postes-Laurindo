@@ -47,7 +47,8 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide" data-modal="1">
                             <div class="img-produtos">
-                                <img src="<?php echo $pageurl; ?>/public/images/kit-postes-2.jpg" alt="" />
+                                <!-- <img src="<?php echo $pageurl; ?>/public/images/kit-postes-2.jpg" alt="" /> -->
+                                <img src="<?php echo $pageurl; ?>/public/images/novo-kit-postes.png" alt="" />
                             </div>
 
                             <div class="produtos-descriptions">
@@ -105,7 +106,8 @@
 
                         <div class="swiper-slide" data-modal="4">
                             <div class="img-produtos">
-                                <img src="<?php echo $pageurl; ?>/public/images/3-caixas-monofasicas.png" alt="" />
+                                <!-- <img src="<?php echo $pageurl; ?>/public/images/3-caixas-monofasicas.png" alt="" /> -->
+                                <img src="<?php echo $pageurl; ?>/public/images/novo-3-caixas-monofasicas.png" alt="" />
                             </div>
 
                             <div class="produtos-descriptions">
@@ -165,7 +167,8 @@
 
                         <div class="swiper-slide" data-modal="7">
                             <div class="img-produtos">
-                                <img src="<?php echo $pageurl; ?>/public/images/caixa-bifasica-caixa-trifasica.png" alt="" />
+                                <!-- <img src="<?php echo $pageurl; ?>/public/images/caixa-bifasica-caixa-trifasica.png" alt="" /> -->
+                                <img src="<?php echo $pageurl; ?>/public/images/novo-caixa-bifasica-caixa-monofasica.png" alt="" />
                             </div>
 
                             <div class="produtos-descriptions">
@@ -198,7 +201,7 @@
                 <div class="swiper swiper-popup-img">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="<?php echo $pageurl; ?>/public/images/kit-completo.png" alt="" />
+                            <img src="<?php echo $pageurl; ?>/public/images/novo-kit-postes.png" alt="" />
                         </div>
 
                         <div class="swiper-slide">
@@ -381,7 +384,7 @@
                 <div class="swiper swiper-popup-img">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="<?php echo $pageurl; ?>/public/images/3-caixas-monofasicas.png" alt="" />
+                            <img src="<?php echo $pageurl; ?>/public/images/novo-3-caixas-monofasicas.png" alt="" />
                         </div>
                     </div>
 
@@ -570,7 +573,7 @@
                 <div class="swiper swiper-popup-img">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="<?php echo $pageurl; ?>/public/images/caixa-bifasica-caixa-trifasica.png" alt="" />
+                            <img src="<?php echo $pageurl; ?>/public/images/novo-caixa-bifasica-caixa-monofasica.png" alt="" />
                         </div>
                     </div>
 
