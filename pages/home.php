@@ -129,7 +129,7 @@
                 </div>
 
                 <div class="text-linha-tempo right-text">
-                    <p>São mais de 30 anos de referência em soluções técnicas para entrada de energia. E atualmente, a Laurindo Postes e Painéis é gerenciada por Bruna Laurindo seu pai, Arlindo Laurindo. A junção de gerações trouxe criatividade, expertise e qualidade para o serviço da empresa.</p>
+                    <p>São mais de 30 anos de referência em soluções técnicas para entrada de energia. E atualmente, a Laurindo Postes e Painéis é gerenciada por Bruna Laurindo e seu pai, Arlindo Laurindo. A junção de gerações trouxe criatividade, expertise e qualidade para o serviço da empresa.</p>
                 </div>
             </div>
         </div>
