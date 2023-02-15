@@ -252,6 +252,10 @@
                                             <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes.png" alt="" />
                                         </div>
 
+                                        <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes-3.png" alt="" />
+                                        </div>
+
                                         <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-4-medicoes-5.png" alt="" />
                                         </div> -->
@@ -297,9 +301,9 @@
                             <div class="toggle-img">
                                 <div class="swiper swiper-painel-6-medicoes">
                                     <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
+                                        <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes.png" alt="" />
-                                        </div>
+                                        </div> -->
 
                                         <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-2.png" alt="" />
@@ -313,7 +317,7 @@
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-4.png" alt="" />
                                         </div> -->
 
-                                        <div class="swiper-slide">
+                                        <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-5.png" alt="" />
                                         </div>
 
@@ -347,7 +351,7 @@
 
                                         <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-6-medicoes-13.png" alt="" />
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="swiper-pagination"></div>
                                 </div>
