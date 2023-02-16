@@ -10,7 +10,7 @@
             </div>
 
             <div class="swiper-slide">
-                <img src="<?php echo $pageurl; ?>/public/images/banner-2.jpg" class="bg-swiper" alt="" />
+                <img src="<?php echo $pageurl; ?>/public/images/novo-banner-2.png" class="bg-swiper" alt="" />
 
                 <div class="swiper-message">
                     <h3>Estrutura <br/><span>completa</span> pra<br/> sua obra</h3>

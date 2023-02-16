@@ -54,6 +54,10 @@
                                 <div class="swiper muretas-agua-agua-jlle">
                                     <div class="swiper-wrapper">
                                         <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-muretas-dagua-joinville.jpeg" alt="" />
+                                        </div>
+
+                                        <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/mureta-dagua-aguas-jlle.png" alt="" />
                                         </div>
 

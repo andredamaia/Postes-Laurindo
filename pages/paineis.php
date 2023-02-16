@@ -252,9 +252,13 @@
                                             <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes.png" alt="" />
                                         </div>
 
-                                        <div class="swiper-slide">
+                                        <!-- <div class="swiper-slide">
+                                            <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes-2.png" alt="" />
+                                        </div> -->
+
+                                        <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/novo-paineis-4-medicoes-3.png" alt="" />
-                                        </div>
+                                        </div> -->
 
                                         <!-- <div class="swiper-slide">
                                             <img src="<?php echo $pageurl; ?>/public/images/painel-4-medicoes-5.png" alt="" />
