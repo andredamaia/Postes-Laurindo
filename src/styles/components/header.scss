@@ -31,6 +31,12 @@ header {
                     width: 15rem;
                 }
             }
+
+            img {
+                @media(max-width: 821px) {
+                    width: 70%;
+                }
+            }
         }
 
         .menu-list {

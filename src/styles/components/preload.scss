@@ -3,38 +3,38 @@ body {
 }
 
 .preload {
-    background: #E6EBEF;
-    background-size: cover;
-    z-index: 90;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  background: #E6EBEF;
+  background-size: cover;
+  z-index: 90;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
-    .logo-preload {
-        margin-bottom: 1.5rem;
-    }
+  .logo-preload {
+      margin-bottom: 1.5rem;
+  }
 
-    .contador {
-        display: inline-block;
-        font-size: 2.5rem;
-        line-height: 3rem;
-        color: var(--color-light);
-    }
+  .contador {
+      display: inline-block;
+      font-size: 2.5rem;
+      line-height: 3rem;
+      color: var(--color-light);
+  }
 
-    img {
-        width: 30rem;
-        margin-bottom: 2.5rem;
+  img {
+      width: 20rem;
+      margin-bottom: 2.5rem;
 
-        @media(max-width: 821px) {
-            width: 20rem;
-        }
-    }
+      @media(max-width: 821px) {
+          width: 13rem;
+      }
+  }
 }
 
 .loader {

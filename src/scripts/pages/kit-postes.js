@@ -1,11 +1,12 @@
 import gsap from 'gsap';
 import $ from 'jquery'
 
-import Swiper, { Pagination } from 'swiper';
+import Swiper, { Pagination, Navigation } from 'swiper';
 
 import Scroll from '../utils/scroll'
 
 Swiper.use([Pagination]);
+Swiper.use([Navigation]);
 
 const pageurl = document.querySelector('body').id
 
@@ -55,6 +56,10 @@ if(pageurl == 'kit-postes'){
     // autoplay: {
     //   delay: 2000,
     // },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
   });
 
   const swiperPopUpImg = new Swiper('.swiper-popup-img', {

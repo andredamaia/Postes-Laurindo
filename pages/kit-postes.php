@@ -8,40 +8,6 @@
 
     <div class="container">
         <div class="area-produtos">
-            <div class="produtos">
-                <a href="<?php echo $pageurl; ?>/kit-postes" class="produto-page">
-                    <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
-
-                    <span>Kit Postes</span>
-                </a>
-
-                <a href="<?php echo $pageurl; ?>/paineis">
-                    <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
-
-                    <span>Painéis</span>
-                </a>
-
-                <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
-                    <img src="<?php echo $pageurl; ?>/public/images/produto-3.jpg" alt="" />
-
-                    <span>caixas de passagens</span>
-                </a>
-
-                <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
-                    <img src="<?php echo $pageurl; ?>/public/images/produto-4.jpg" alt="" />
-
-                    <span>Caixas de medição</span>
-                </a>
-
-                <a href="<?php echo $pageurl; ?>/muretas-de-agua">
-                    <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
-
-                    <span>Muretas de água</span>
-                </a>
-            </div>
-        </div>
-
-        <div class="area-produtos">
             <div class="produtos-content">
                 <div class="swiper swiper-produtos">
                     <div class="swiper-wrapper">
@@ -52,7 +18,7 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <div style="display: flex; flex-direction: column; justify-content: flex-start; gap: 2rem;">
+                                <div class="products-up-side">
                                     <strong>KIT COMPLETO</strong>
 
                                     <div class="description">
@@ -60,7 +26,11 @@
                                     </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -70,17 +40,23 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: A CAIXA MONOFÁSICA</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: A CAIXA MONOFÁSICA</strong>
 
-                                <span>Tamanhos: 7, 8 e 9 metros</span>
+                                    <span>Tamanhos: 7, 8 e 9 metros</span>
 
-                                <span>Resistência: 100 daN</span>
+                                    <span>Resistência: 100 daN</span>
 
-                                <div class="description">
-                                    <p>Este é o modelo de caixa mais simples do mercado e sugerido para locais que tenham baixo consumo de energia. Residências com apenas um chuveiro e um ar condicionado são ideais para esse tipo de poste. Caso usado em espaços com maior consumo de energia, essa caixa pode desarmar o disjuntor com frequência. Por isso, é necessário avaliar qual é a melhor opção para o seu imóvel. Em situações onde a rede geral da Celesc (Iluminação pública) fica do mesmo lado do terreno utiliza-se o kit poste padrão Celesc de 7 metros. Quando for travessia de rua, o poste precisa ser de 8 metros (Padrão Celesc). Normalmente em avenidas é utilizado o poste de 9 metros, ou para quando o terreno é desnivelado (mais alto ou mais baixo em relação a via pública - calçada). Existem duas opções para que o cliente faça a ligação do poste até a sua unidade consumidora: saída aérea ou subterrânea. A soma da potência dos equipamentos não deve ultrapassar a carga instalada de até 15kW. Os acessórios que compõem o kit poste são: caixa de medidor em policarbonato, condutores de cobre isolados (HEPR 1kV) e seus terminais, disjuntor, DPS, armação secundária e roldana, haste e caixa de inspeção de aterramento. Em caso de estar precisando de um poste para instalar em um terreno baldio/obra onde será construído uma unidade consumidora, a Celesc exige que seja instalado também uma tomada provisória, caso não seja feito, não será realizada a ligação do poste a rede de energia.</p>
+                                    <div class="description">
+                                        <p>Este é o modelo de caixa mais simples do mercado e sugerido para locais que tenham baixo consumo de energia. Residências com apenas um chuveiro e um ar condicionado são ideais para esse tipo de poste. Caso usado em espaços com maior consumo de energia, essa caixa pode desarmar o disjuntor com frequência. Por isso, é necessário avaliar qual é a melhor opção para o seu imóvel. Em situações onde a rede geral da Celesc (Iluminação pública) fica do mesmo lado do terreno utiliza-se o kit poste padrão Celesc de 7 metros. Quando for travessia de rua, o poste precisa ser de 8 metros (Padrão Celesc). Normalmente em avenidas é utilizado o poste de 9 metros, ou para quando o terreno é desnivelado (mais alto ou mais baixo em relação a via pública - calçada). Existem duas opções para que o cliente faça a ligação do poste até a sua unidade consumidora: saída aérea ou subterrânea. A soma da potência dos equipamentos não deve ultrapassar a carga instalada de até 15kW. Os acessórios que compõem o kit poste são: caixa de medidor em policarbonato, condutores de cobre isolados (HEPR 1kV) e seus terminais, disjuntor, DPS, armação secundária e roldana, haste e caixa de inspeção de aterramento. Em caso de estar precisando de um poste para instalar em um terreno baldio/obra onde será construído uma unidade consumidora, a Celesc exige que seja instalado também uma tomada provisória, caso não seja feito, não será realizada a ligação do poste a rede de energia.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -90,17 +66,23 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: 2 CAIXAS MONOFÁSICAS</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: 2 CAIXAS MONOFÁSICAS</strong>
 
-                                <span>Tamanhos: 7, 8 e 9 metros</span>
+                                    <span>Tamanhos: 7, 8 e 9 metros</span>
 
-                                <span>Resistência: 100 daN</span>
+                                    <span>Resistência: 100 daN</span>
 
-                                <div class="description">
-                                    <p>Esse padrão com 2 caixas monofásicas é ideal para ser usado em residências de baixo consumo de energia, com duas unidades consumidoras no mesmo terreno, com ou sem repartição de muro. É o modelo próprio para unidades do tipo geminadas que possuem muros de divisão, ou sobrados com mais de uma residência e intenção de dividir o consumo em duas unidades diferentes. Também atende em casos de previsão de uma construção secundária no mesmo terreno.</p>
+                                    <div class="description">
+                                        <p>Esse padrão com 2 caixas monofásicas é ideal para ser usado em residências de baixo consumo de energia, com duas unidades consumidoras no mesmo terreno, com ou sem repartição de muro. É o modelo próprio para unidades do tipo geminadas que possuem muros de divisão, ou sobrados com mais de uma residência e intenção de dividir o consumo em duas unidades diferentes. Também atende em casos de previsão de uma construção secundária no mesmo terreno.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -111,17 +93,23 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: 3 CAIXAS MONOFÁSICAS</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: 3 CAIXAS MONOFÁSICAS</strong>
 
-                                <span>Tamanhos: 7,8 e 9 metros.</span>
+                                    <span>Tamanhos: 7,8 e 9 metros.</span>
 
-                                <span>Resistência: 150 daN</span>
+                                    <span>Resistência: 150 daN</span>
 
-                                <div class="description">
-                                    <p>Essa opção com três caixas monofásicas é indicada para situações com 3 unidades consumidoras no mesmo terreno, sem repartição com muro entre elas. São 4 formas para fazer a ligação do poste até a sua unidade consumidora: as três saídas subterrâneas, duas subterrâneas e uma aérea, uma subterrânea e duas aéreas, ou ainda as três saídas aéreas.</p>
+                                    <div class="description">
+                                        <p>Essa opção com três caixas monofásicas é indicada para situações com 3 unidades consumidoras no mesmo terreno, sem repartição com muro entre elas. São 4 formas para fazer a ligação do poste até a sua unidade consumidora: as três saídas subterrâneas, duas subterrâneas e uma aérea, uma subterrânea e duas aéreas, ou ainda as três saídas aéreas.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -131,17 +119,23 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: 1 CAIXA BIFÁSICA</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: 1 CAIXA BIFÁSICA</strong>
 
-                                <span>Tamanhos: 7, 8 e 9 metros</span>
+                                    <span>Tamanhos: 7, 8 e 9 metros</span>
 
-                                <span>Resistência: 150 daN</span>
+                                    <span>Resistência: 150 daN</span>
 
-                                <div class="description">
-                                    <p>É sugerido para unidades consumidoras com médio a alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica ou mais de um ar condicionado. Em situações onde a rede geral da Celesc (Iluminação pública) fica do mesmo lado do terreno, utiliza-se o kit poste padrão Celesc de 7 metros.</p>
+                                    <div class="description">
+                                        <p>É sugerido para unidades consumidoras com médio a alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica ou mais de um ar condicionado. Em situações onde a rede geral da Celesc (Iluminação pública) fica do mesmo lado do terreno, utiliza-se o kit poste padrão Celesc de 7 metros.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -151,17 +145,23 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: 1 CAIXA TRIFÁSICA</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: 1 CAIXA TRIFÁSICA</strong>
 
-                                <span>Tamanhos: 7, 8 e 9 metros</span>
+                                    <span>Tamanhos: 7, 8 e 9 metros</span>
 
-                                <span>Resistência: 150 daN</span>
+                                    <span>Resistência: 150 daN</span>
 
-                                <div class="description">
-                                    <p>É sugerido para unidades consumidoras com alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica, fogão de indução mais de dois ares condicionados, entre outros aparelhos de consumo energético. E também a indústrias que detenham equipamentos trifásicos ou alto consumo de energia.</p>
+                                    <div class="description">
+                                        <p>É sugerido para unidades consumidoras com alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica, fogão de indução mais de dois ares condicionados, entre outros aparelhos de consumo energético. E também a indústrias que detenham equipamentos trifásicos ou alto consumo de energia.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
                         </div>
 
@@ -172,22 +172,72 @@
                             </div>
 
                             <div class="produtos-descriptions">
-                                <strong>KIT POSTE: 1 CAIXA BIFÁSICA + 1 CAIXA MONOFÁSICA</strong>
+                                <div class="products-up-side">
+                                    <strong>KIT POSTE: 1 CAIXA BIFÁSICA + 1 CAIXA MONOFÁSICA</strong>
 
-                                <span>Tamanhos: 7, 8 e 9 metros</span>
+                                    <span>Tamanhos: 7, 8 e 9 metros</span>
 
-                                <span>Resistência: 150 daN</span>
+                                    <span>Resistência: 150 daN</span>
 
-                                <div class="description">
-                                    <p>Esse modelo de caixa é propriamente utilizado em residências comuns e também do tipo geminados, gerando equilíbrio quando uma das duas unidades possui maior consumo de energia. Por exemplo: a caixa bifásica pode atender a unidade consumidora que possui dois chuveiros e mais de dois ares condicionados na residência, e a caixa monofásica atende a unidade que possui apenas chuveiro e um ar condicionado.</p>
+                                    <div class="description">
+                                        <p>Esse modelo de caixa é propriamente utilizado em residências comuns e também do tipo geminados, gerando equilíbrio quando uma das duas unidades possui maior consumo de energia. Por exemplo: a caixa bifásica pode atender a unidade consumidora que possui dois chuveiros e mais de dois ares condicionados na residência, e a caixa monofásica atende a unidade que possui apenas chuveiro e um ar condicionado.</p>
+                                    </div>
                                 </div>
 
-                                <span class="ver-mais">Ver mais...</span>
+                                <div class="buttons-final">
+                                    <span class="ver-mais">Ver mais...</span>
+
+                                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                                </div>
                             </div>
+                        </div>
+                    </div>
+
+                    <div class="buttons-swipers">
+                        <div class="swiper-button-prev">
+                            <img src="<?php echo $pageurl; ?>/public/images/before-slide.png" alt="" />
+                        </div>
+
+                        <div class="swiper-button-next">
+                            <img src="<?php echo $pageurl; ?>/public/images/next-slide.png" alt="" />
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="area-produtos">
+        <div class="produtos">
+            <a href="<?php echo $pageurl; ?>/kit-postes" class="produto-page">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
+
+                <span>Kit Postes</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/paineis">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+
+                <span>Painéis</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-3.jpg" alt="" />
+
+                <span>caixas de passagens</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-4.jpg" alt="" />
+
+                <span>Caixas de medição</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/muretas-de-agua">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
+
+                <span>Muretas de água</span>
+            </a>
         </div>
     </div>
 </div>
@@ -250,6 +300,8 @@
 
                     <div class="description">
                         <p>Início de obra descomplicado. Poste com tomada provisória + mureta de água Monte do seu jeito!</p>
+
+                        <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                     </div>
                 </div>
             </div>
@@ -275,11 +327,15 @@
                 
 
                 <div class="produtos-descriptions">
+                    
                     <strong>Kit poste: A caixa monofásica</strong>
 
                     <span>Tamanhos: 7, 8 e 9 metros</span>
 
                     <span>Resistência: 100 daN</span>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+                    
 
                     <div class="description">
                         <p>Este é o modelo de caixa mais simples do mercado e sugerido para locais que tenham baixo consumo de energia. Residências com apenas um chuveiro e um ar são ideais para esse tipo de poste. Caso usado em espaços com maior consumo de energia, essa caixa pode desarmar o disjuntor com frequência.</p>
@@ -340,6 +396,8 @@
 
                     <span>Resistência: 100 daN</span>
 
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+
                     <div class="description">
                         <p>Esse padrão com 2 caixas monofásicas é ideal para ser usado em residências de baixo consumo de energia, com duas unidades consumidoras no mesmo terreno, com ou sem repartição de muro. É o modelo próprio para unidades do tipo geminadas que possuem muros de divisão, ou sobrados com mais de uma residência e intenção de dividir o consumo em duas unidades diferentes. Também atende em casos de previsão de uma construção secundária no mesmo terreno.</p>
                     </div>
@@ -398,6 +456,8 @@
                     <span>Tamanhos: 7, 8 e 9 metros</span>
 
                     <span>Resistência: 150 daN</span>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
 
                     <div class="description">
                         <p>Essa opção com três caixas monofásicas é indicada para situações com 3 unidades consumidoras no mesmo terreno, sem repartição com muro entre elas.</p>
@@ -470,6 +530,8 @@
 
                     <span>Resistência: 150 daN</span>
 
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+
                     <div class="description">
                         <p>É sugerido para unidades consumidoras com médio a alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica ou mais de um ar condicionado.</p>
                     </div>
@@ -529,6 +591,8 @@
 
                     <span>Resistência: 150 daN</span>
 
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
+
                     <div class="description">
                         <p>É sugerido para unidades consumidoras com alto consumo de energia: residências com mais de dois chuveiros, torneira elétrica, fogão de indução, mais de dois ares condicionados, entre outros aparelhos de consumo energético. E também a indústrias que detenham equipamentos trifásicos ou alto consumo de energia.</p>
                     </div>
@@ -587,6 +651,8 @@
                     <span>Tamanhos: 7, 8 e 9 metros</span>
 
                     <span>Resistência: 100 daN</span>
+
+                    <a href="https://api.whatsapp.com/send?phone=5547992584714" target="_blank" class="slider-black-button">Faça seu orçamento</a>
 
                     <div class="description">
                         <p>Esse modelo de caixa é propriamente utilizado em residências comuns e também do tipo geminados, gerando equilíbrio quando uma das duas unidades possui maior consumo de energia. Por exemplo: a caixa bifásica pode atender a unidade consumidora que possui dois chuveiros e mais de dois ares condicionados na residência, e a caixa monofásica atende a unidade que possui apenas chuveiro e um ar condicionado.</p>

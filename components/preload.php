@@ -4,7 +4,7 @@
 
 <div class="preload">
     
-    <img src="<?php echo $pageurl; ?>/public/images/img-logo.svg" alt="" />
+    <img src="<?php echo $pageurl; ?>/public/images/new-logo-loader.png" alt="" />
 
     <div class="loader">
         <span class="loader__element red-ball"></span>

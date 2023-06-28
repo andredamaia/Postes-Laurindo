@@ -71,7 +71,7 @@
                 }
 
                 .description {
-                    max-height: 42.5rem;
+                    max-height: 35rem;
                     position: relative;
                     overflow: hidden;
 
@@ -104,4 +104,38 @@
             }
         }
     }
+}
+
+.products-up-side {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    gap: 2rem;
+    height: 85%;
+}
+
+.buttons-final {
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.produtos-content .swiper-produtos .swiper-slide .active {
+    opacity: 1;
+}
+
+.swiper-produtos .swiper-slide.swiper-slide-next {
+    opacity: .7;
+}
+
+@media (min-width: 992px) and (max-width: 1400px) {
+    .area-popup .popup .popup-content .up-side .swiper-popup-img .swiper-slide {
+        height: 100% ;
+    }
+}
+
+.buttons-swipers .swiper-button-next:after, .buttons-swipers .swiper-button-prev:after {
+    display: none;
 }
