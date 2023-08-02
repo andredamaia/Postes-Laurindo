@@ -26,6 +26,14 @@
         <meta name="twitter:description" content="<?php echo $description; ?>" />
         <meta name="twitter:image" content="<?php echo $pageurl; ?>/public/images/share.jpg" />
 
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NKPSG6FN');</script>
+        <!-- End Google Tag Manager -->
+
         <style>
             @font-face {
                 font-family: 'gothambold';
@@ -54,7 +62,11 @@
     </head>
 
     <body id="<?php echo $page; ?>" class="<?php echo $subpage; ?>" style="background: #E6EBEF url('images/bg-details.png') no-repeat;">
-        <div class="webapp">
+            <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NKPSG6FN"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+                    <div class="webapp">
             <?php include('components/preload.php'); ?>
             
             <?php include('components/header.php'); ?>

@@ -54,6 +54,47 @@
     <img src="<?php echo $pageurl; ?>/public/images/bg-video.jpg" class="bg-video" alt="" />
 </div>
 
+<div class="area-produtos" id="produtos">
+    <div class="div-title">
+        <h2>Produtos</h2>
+        <span>Produtos</span>
+    </div>
+
+    <div class="container">
+        <div class="produtos">
+            <a href="<?php echo $pageurl; ?>/kit-postes">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
+
+                <span>Kit Postes</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/paineis">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
+
+                <span>Painéis</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-3.jpg" alt="" />
+
+                <span>caixas de passagens</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-4.jpg" alt="" />
+
+                <span>Caixas de medição</span>
+            </a>
+
+            <a href="<?php echo $pageurl; ?>/muretas-de-agua">
+                <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
+
+                <span>Muretas de água</span>
+            </a>
+        </div>
+    </div>
+</div>
+
 <div class="area-linha-tempo" id="nossa-historia">
     <div class="div-title">
         <h2>Nossa</h2>
@@ -132,47 +173,6 @@
                     <p>São mais de 30 anos de referência em soluções técnicas para entrada de energia. E atualmente, a Laurindo Postes e Painéis é gerenciada por Bruna Laurindo e seu pai, Arlindo Laurindo. A junção de gerações trouxe criatividade, expertise e qualidade para o serviço da empresa.</p>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
-
-<div class="area-produtos" id="produtos">
-    <div class="div-title">
-        <h2>Produtos</h2>
-        <span>Produtos</span>
-    </div>
-
-    <div class="container">
-        <div class="produtos">
-            <a href="<?php echo $pageurl; ?>/kit-postes">
-                <img src="<?php echo $pageurl; ?>/public/images/produto-1.jpg" alt="" />
-
-                <span>Kit Postes</span>
-            </a>
-
-            <a href="<?php echo $pageurl; ?>/paineis">
-                <img src="<?php echo $pageurl; ?>/public/images/produto-2.jpg" alt="" />
-
-                <span>Painéis</span>
-            </a>
-
-            <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
-                <img src="<?php echo $pageurl; ?>/public/images/produto-3.jpg" alt="" />
-
-                <span>caixas de passagens</span>
-            </a>
-
-            <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
-                <img src="<?php echo $pageurl; ?>/public/images/produto-4.jpg" alt="" />
-
-                <span>Caixas de medição</span>
-            </a>
-
-            <a href="<?php echo $pageurl; ?>/muretas-de-agua">
-                <img src="<?php echo $pageurl; ?>/public/images/produto-5.jpg" alt="" />
-
-                <span>Muretas de água</span>
-            </a>
         </div>
     </div>
 </div>

@@ -1,4 +1,5 @@
-import gsap from 'gsap'
+import gsap from 'gsap';
+import $ from 'jquery'
 
 export default class Menu {
     constructor(options){
@@ -10,6 +11,7 @@ export default class Menu {
         this.closeMenu = document.querySelector('.close-menu')
         
         this.menuLinks = document.querySelector('.menu-links')
+
 
         this.checkMobile = false
         this.block = false
@@ -87,4 +89,18 @@ export default class Menu {
             this.block = false
         })
     }
+
+    // secondMenu() {
+    //     botaoSubMenu.addEventListener('click', toggleMenu);
+
+    //     function toggleMenu() {
+    //         if (menuPrincipal.style.display === 'none') {
+    //             menuPrincipal.style.display = 'block'; // Mostra o menu principal
+    //             subMenu.style.display = 'none'; // Esconde o subMenu
+    //         } else {
+    //             menuPrincipal.style.display = 'none'; // Esconde o menu principal
+    //             subMenu.style.display = 'block'; // Mostra o subMenu
+    //         }
+    //     }
+    // }
 }

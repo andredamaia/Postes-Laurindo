@@ -15,10 +15,10 @@ if(pageurl == 'caixas-de-passagens'){
     }
   })
 
-  $('.toggle-header').on('click', function(){
-    $(this).parent().toggleClass('open-toggle');
+//   $('.toggle-header').on('click', function(){
+//     $(this).parent().toggleClass('open-toggle');
 
-    window.dispatchEvent(new Event('resize'));
-});
+//     window.dispatchEvent(new Event('resize'));
+// });
 
 }

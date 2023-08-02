@@ -80,8 +80,16 @@ a {
     }
 }
 
+.area-toggle {
+    padding-bottom: 10rem;
+
+    @media(max-width: 821px) {
+        padding-bottom: 4rem;
+    }
+}
+
 .area-interna {
-    padding: 20rem 0 10rem;
+    padding: 20rem 0 0;
     position: relative;
 
     @media(max-width: 821px) {
@@ -422,7 +430,10 @@ a {
     }
 }
 
-.toggle-body { padding: 1.5rem 0; display: none; }
+.toggle-body { 
+    padding: 1.5rem 0; 
+    // display: none; 
+}
 
 
 .toggle-produto-description {
@@ -591,4 +602,29 @@ a {
         height: 100%;
     }
 }
+
+.has-submenu:hover .submenu {
+    display: block;
+}
+
+.submenu {
+display: none;
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+/* ... (mantenha o restante do estilo CSS igual ao exemplo anterior) ... */
+
+.open {
+    display: block;
+  }
+  
+  /* Estilo para o botão ativo do menu */
+  .menu .has-submenu.open > a {
+    /* Adicione aqui os estilos que desejar para indicar o botão ativo */
+    font-weight: bold;
+    /* Por exemplo, deixamos o texto em negrito */
+  }
+  
 

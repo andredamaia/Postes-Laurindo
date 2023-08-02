@@ -55,6 +55,15 @@
                     color: var(--color-outer-space);
                     text-decoration: none;
                 }
+
+                span {
+                    font-size: 3rem;
+                    font-family: 'gothambold';
+                    line-height: 4rem;
+                    margin-bottom: 1rem;
+                    color: var(--color-outer-space);
+                    text-decoration: none;
+                }
             }
         }
     }
@@ -93,4 +102,8 @@
     @media(max-width: 821px) {
         display: block;
     }
+}
+
+.submenu-links {
+    display: none;
 }
