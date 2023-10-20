@@ -38,6 +38,8 @@
 
                         <div class="toggle-down-side">
                             <p>A caixa de hidrômetro é recomendada quando o local de instalação envolve grandes alterações na fachada do imóvel ou dificuldade de acesso da nossa equipe para a instalação da mureta pré-fabricada, que já sai pronta da empresa para o cliente apenas pedir vistoria e ligação.</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA HIDRÔMETRO Águas de Joinville/São Francisco do Sul no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>
@@ -68,6 +70,8 @@
                                 <p>O corpo possui nervuras em todas as suas faces laterais externas, permitindo maior fixação no reboco após a sua colocação e também proporciona maior estabilidade estrutural a direção da entrada e da saída da tubulação.</p>
 
                                 <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaraçamento e também permitem o escoamento da água em caso de vazamento.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA HIDRÔMETRO CASAN no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -99,6 +103,8 @@
                                 <p>Para fixação do medidor, possui sistema de travessa regulável, permitindo a utilização de diversos padrões do mesmo. Possui no fundo do corpo suportes para passagem de cinta metálica para fixação do conjunto em poste (opcional).</p>
 
                                 <!-- <p>A tampa possui área do visor de leitura com furações que permitem a leitura do hidrômetro. A tampa conta com furação para a passagem do lacre da companhia. Possui orifícios que permitem a circulação do ar para evitar embaçamentos e também permitem o escoamento da água em caso de vazamento.</p> -->
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA DE MEDIÇÃO DE ENERGIA CELESC (TAF) no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>

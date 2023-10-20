@@ -11,9 +11,51 @@
         <div class="d-flex align-items-center">
             <ul class="menu-list">
                 <li><a href="<?php echo $pageurl; ?>/">Início</a></li>
+
                 <li><a href="<?php echo $pageurl; ?>/#nossa-historia" class="button-scroll" data-scroll="nossa-historia">Nossa História</a></li>
-                <li><a href="<?php echo $pageurl; ?>/produtos">Produtos</a></li>
+
+                <li>
+                    <span class="link-produtos">
+                        Produtos
+
+                        <div class="submenu-dropdown">
+                            <ul>
+                                <li>
+                                    <a href="<?php echo $pageurl; ?>/kit-postes">
+                                        Kit Postes
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="<?php echo $pageurl; ?>/paineis">
+                                        Painéis
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="<?php echo $pageurl; ?>/caixas-de-passagens">
+                                        caixas de passagens
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="<?php echo $pageurl; ?>/caixas-de-medicao">
+                                        Caixas de medição
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="<?php echo $pageurl; ?>/muretas-de-agua">
+                                        Muretas de água
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </span>
+                </li>
+
                 <li><a href="<?php echo $pageurl; ?>/#onde-atendemos" class="button-scroll" data-scroll="onde-atendemos">Onde Atendemos</a></li>
+
                 <li><a href="<?php echo $pageurl; ?>/#contato" class="button-scroll" data-scroll="contato">Contato</a></li>
             </ul>
 

@@ -33,6 +33,8 @@
                                 <p>A caixa de passagem subterrânea possui as medidas de 78 x 54 x 60 cm (C x L x P) sendo essas as medidas externas. A espessura da parede da caixa é de 6cm.</p>
 
                                 <p>A caixa possui um total de 10 furações em cada lateral das paredes maiores, com uma pequena “casca” que impede o furo de atravessar, formando paredes lisas no interior da caixa. Dessa forma, o cliente aproveita a abertura que lhe for útil para passagem dos eletrodutos e cabos de energia.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA DE PASSAGEM GRANDE no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -63,6 +65,8 @@
                                 <p>A caixa de alvenaria ou concreto quadrada com largura interna 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
 
                                 <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas e permitindo manutenção periódica.Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA DE CONCRETO QUADRADO no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -93,6 +97,8 @@
                                 <p>A caixa de alvenaria ou concreto cilíndrico com diâmetro interno 30cm e altura de 40cm, com tampa de concreto ou ferro nodular, pode ser aplicada em locais de circulação de pessoas.</p>
 
                                 <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas. Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA DE CONCRETO CILÍNDRICA no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -123,6 +129,8 @@
                                 <p>A caixa de material polimérico (corpo e tampa) de diâmetro 30cm e altura de 40cm pode ser aplicada somente em locais sem circulação de pessoas ou veículos.</p>
 
                                 <p>Vem com a tampa de proteção para obras e não possui fundo, o que permite a derivação e acesso às redes elétricas e permitindo manutenção periódica. Pode ser usada em obras novas ou reformas, residenciais ou industriais.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto CAIXA DE PVC CILÍNDRICA no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>

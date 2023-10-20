@@ -55,8 +55,10 @@ if(pageurl == 'home'){
   gsap.ticker.add(() => { 
     if(scroll.screenPosition > 150){
         $('header').addClass('active')
+        $('.submenu-dropdown').addClass('active')
     } else {
         $('header').removeClass('active')
+        $('.submenu-dropdown').removeClass('active')
     }
   })
 

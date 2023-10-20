@@ -64,6 +64,8 @@
                             <p>Existem três opções para que o cliente faça a ligação do painel até a sua unidade consumidora: entrada e saída aérea, entrada aérea e saída subterrânea ou entrada e saída subterrâneas.</p>
 
                             <p>Para estabelecimentos que utilizarão de disjuntor entre 80A a 100A, a Celesc não exige projeto elétrico particular mediante cadastro via sistema (PEP).  Apenas justificativa através do cálculo de demanda do empreendimento.</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto PAINEL COM CAIXA MEE (Medidor Eletrônico Especial) no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>
@@ -123,6 +125,8 @@
                             <p>É limitado ao ramal de entrada cabos de seção de 16mm² e disjuntor geral de 70A. E para os cabos de derivação do barramento, bem como o ramal de saída das caixas de medição, é permitido cabos 10mm² e disjuntores individuais de 50A.</p>
 
                             <p>O poste/painel tem altura definida na altura de 8 metros e é fabricado em concreto usinado com resistência de 200daN (decaNewton).</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto PAINEL PARA 2 MEDIÇÕES VERTICAIS no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>
@@ -182,6 +186,8 @@
                             <p>O poste que acompanha o painel pode variar nas alturas entre 7, 8 e 9 metros, dependendo da condição em que se encontra a rede geral da Celesc (Iluminação pública).</p>
 
                             <p>É fabricado em concreto usinado e tem resistência a esforços de tração variados (daN - decaNewton) de acordo com o dimensionamento do projeto elétrico da entrada de energia.</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto PAINEL PARA ATÉ 2 MEDIÇÕES (Modelo Comum) no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>
@@ -255,6 +261,8 @@
                             <p>O poste que acompanha o painel pode variar nas alturas entre 7, 8 e 9 metros, dependendo da condição em que se encontra a rede geral da Celesc (Iluminação pública).</p>
 
                             <p>É fabricado em concreto usinado e tem resistência a esforços de tração variados (daN - decaNewton) de acordo com o dimensionamento do projeto elétrico da entrada de energia.</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto PAINEL PARA ATÉ 4 MEDIÇÕES no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>
@@ -346,6 +354,8 @@
                             <p>Esse modelo de painel é versátil e permite adaptações de montagem dos diagramas elétricos de acordo com o projeto fornecido pelo cliente. Certamente as variações devem respeitar o dimensionamento das tubulações internas para passagem dos cabos, conforme a composição mecânica da peça.</p>
 
                             <p>O poste que acompanha o painel pode variar nas alturas entre 7, 8 e 9 metros, dependendo da condição em que se encontra a rede geral da Celesc (Iluminação pública). É fabricado em concreto usinado, e tem resistência a esforços de tração variados (daN - decaNewton) de acordo com o  dimensionamento do projeto elétrico da entrada de energia.</p>
+
+                            <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto Painel para até 6 medições no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                         </div>
                     </div>
                 </div>

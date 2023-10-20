@@ -48,6 +48,8 @@
                                 <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
 
                                 <p>Confeccionada de maneira a estar pronta para solicitação da vistoria e ligação.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto MURETA D'ÁGUA PADRÃO ÁGUAS DE JOINVILLE no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -88,6 +90,8 @@
                                 <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
 
                                 <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto MURETA D'ÁGUA PADRÃO ÁGUAS DE SFS no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>
@@ -128,6 +132,8 @@
                                 <p>A mureta fabricada em concreto usinado possui alta resistência e durabilidade. Ela garante mais segurança a sua obra e compõe todos os acessórios necessários exigidos em norma.</p>
 
                                 <p>É um produto versátil que se adequa a necessidade do cliente, caso precise inverter o posicionamento em relação à via pública, é possível adaptar a saída do registro permitindo acesso e possibilidade de manutenções futuras.</p>
+
+                                <a href="https://api.whatsapp.com/send?phone=5547992584714&text=Olá! 😊 Encontrei o produto MURETA D'ÁGUA PADRÃO CASAN no site. Poderia me dar mais informações?" target="_blank" class="slider-black-button">Faça seu orçamento</a>
                             </div>
                         </div>
                     </div>

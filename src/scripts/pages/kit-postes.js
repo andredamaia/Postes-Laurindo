@@ -76,7 +76,7 @@ if(pageurl == 'kit-postes'){
     // },
   });
 
-  $('.swiper-produtos .swiper-slide').on('click', function(){
+  $('.kits-posts-pages').on('click', function(){
     const modal = $(this).data('modal')
 
     $('.modal-'+modal).css('display', 'block');
