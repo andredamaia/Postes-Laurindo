@@ -191,7 +191,7 @@
         </div>
 
         <div class="onde-atendemos-locais">
-            <div class="box-locais">
+            <!-- <div class="box-locais">
                 <h6>REGIÃO DE ARAQUARI, BARRA DO SUL E JARAGUÁ DO SUL</h6>
 
                 <small>Instaladora Fênix</small>
@@ -221,7 +221,7 @@
                         -
                     </a>
                 </div>
-            </div>
+            </div> -->
 
             <div class="box-locais">
                 <h6>REGIÃO DA PRAIA DO ERVINO, SÃO FRANCISCO DO SUL</h6>
@@ -319,7 +319,7 @@
                 </div>
             </div>
 
-            <div class="box-locais">
+            <!-- <div class="box-locais">
                 <h6>REGIÃO DE MASSARANDUBA</h6>
 
                 <small>Meyer Comércio e Serviços.</small>
@@ -349,7 +349,7 @@
                         -
                     </a>
                 </div>
-            </div>
+            </div> -->
 
             <div class="box-locais">
                 <h6>REGIÃO DE GUARAMIRIM<br/> E SCHROEDER</h6>
