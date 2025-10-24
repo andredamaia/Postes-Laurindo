@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel watch src/scripts/index.js --out-dir public/"
+    "dev": "parcel watch src/scripts/index.js --out-dir public/",
+    "build": "parcel build src/scripts/index.js --out-dir public/"
   },
   "license": "ISC",
   "devDependencies": {

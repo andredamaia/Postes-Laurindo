@@ -305,10 +305,10 @@
                         (47) 3445-4072
                     </a>
 
-                    <a href="https://api.whatsapp.com/send?phone=5547999190855" target="_blank">
+                    <a href="https://api.whatsapp.com/send?phone=5547996411188" target="_blank">
                         <img src="<?php echo $pageurl; ?>/public/images/mini-whatsapp.png" alt="" />
 
-                        (47) 9 9919-0855
+                        (47) 9 9641-1188
                     </a>
 
                     <a href="mailto:casauniao@casauniao.com">
